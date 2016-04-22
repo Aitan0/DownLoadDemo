@@ -1,0 +1,10 @@
+E:\源码\C#程序开发典型模块大全（第二版）\mr\22\GobangClass\GobangClass\bin\Debug\GobangClass.dll
+E:\源码\C#程序开发典型模块大全（第二版）\mr\22\GobangClass\GobangClass\bin\Debug\GobangClass.pdb
+E:\源码\C#程序开发典型模块大全（第二版）\mr\22\GobangClass\GobangClass\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#程序开发典型模块大全（第二版）\mr\22\GobangClass\GobangClass\obj\Debug\GobangClass.dll
+E:\源码\C#程序开发典型模块大全（第二版）\mr\22\GobangClass\GobangClass\obj\Debug\GobangClass.pdb
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\18\网络五子棋游戏模块\GobangClass\GobangClass\bin\Debug\GobangClass.dll
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\18\网络五子棋游戏模块\GobangClass\GobangClass\bin\Debug\GobangClass.pdb
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\18\网络五子棋游戏模块\GobangClass\GobangClass\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\18\网络五子棋游戏模块\GobangClass\GobangClass\obj\Debug\GobangClass.dll
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\18\网络五子棋游戏模块\GobangClass\GobangClass\obj\Debug\GobangClass.pdb

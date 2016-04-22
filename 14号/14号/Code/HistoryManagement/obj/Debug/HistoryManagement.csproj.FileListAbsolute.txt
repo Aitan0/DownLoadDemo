@@ -1,0 +1,26 @@
+C:\Users\aliu2197\Desktop\14号\14号\Code\HistoryManagement\bin\Debug\HistoryManagement.dll
+C:\Users\aliu2197\Desktop\14号\14号\Code\HistoryManagement\bin\Debug\HistoryManagement.pdb
+C:\Users\aliu2197\Desktop\14号\14号\Code\HistoryManagement\bin\Debug\Config.dll
+C:\Users\aliu2197\Desktop\14号\14号\Code\HistoryManagement\bin\Debug\Data.dll
+C:\Users\aliu2197\Desktop\14号\14号\Code\HistoryManagement\bin\Debug\Config.pdb
+C:\Users\aliu2197\Desktop\14号\14号\Code\HistoryManagement\bin\Debug\Data.pdb
+C:\Users\aliu2197\Desktop\14号\14号\Code\HistoryManagement\obj\Debug\HotelManagementSystem.HistoryManagement.BillHistoryManagement.resources
+C:\Users\aliu2197\Desktop\14号\14号\Code\HistoryManagement\obj\Debug\HotelManagementSystem.HistoryManagement.LiveHistoryManagement.resources
+C:\Users\aliu2197\Desktop\14号\14号\Code\HistoryManagement\obj\Debug\HotelManagementSystem.HistoryManagement.OrderHistoryManagement.resources
+C:\Users\aliu2197\Desktop\14号\14号\Code\HistoryManagement\obj\Debug\HistoryManagement.csproj.GenerateResource.Cache
+C:\Users\aliu2197\Desktop\14号\14号\Code\HistoryManagement\obj\Debug\HistoryManagement.dll
+C:\Users\aliu2197\Desktop\14号\14号\Code\HistoryManagement\obj\Debug\HistoryManagement.pdb
+C:\Users\aliu2197\Desktop\14号\14号\Code\HistoryManagement\obj\Debug\HistoryManagement.csprojResolveAssemblyReference.cache
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\HistoryManagement\bin\Debug\HistoryManagement.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\HistoryManagement\bin\Debug\HistoryManagement.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\HistoryManagement\bin\Debug\Config.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\HistoryManagement\bin\Debug\Data.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\HistoryManagement\bin\Debug\Config.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\HistoryManagement\bin\Debug\Data.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\HistoryManagement\obj\Debug\HistoryManagement.csprojResolveAssemblyReference.cache
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\HistoryManagement\obj\Debug\HotelManagementSystem.HistoryManagement.BillHistoryManagement.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\HistoryManagement\obj\Debug\HotelManagementSystem.HistoryManagement.LiveHistoryManagement.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\HistoryManagement\obj\Debug\HotelManagementSystem.HistoryManagement.OrderHistoryManagement.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\HistoryManagement\obj\Debug\HistoryManagement.csproj.GenerateResource.Cache
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\HistoryManagement\obj\Debug\HistoryManagement.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\HistoryManagement\obj\Debug\HistoryManagement.pdb

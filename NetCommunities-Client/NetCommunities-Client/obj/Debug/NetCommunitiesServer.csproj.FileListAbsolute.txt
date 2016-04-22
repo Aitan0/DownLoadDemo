@@ -1,0 +1,9 @@
+c:\users\aliu2197\documents\visual studio 2013\Projects\NetCommunities-Client\NetCommunities-Client\bin\Debug\NetCommunities-Client.exe.config
+c:\users\aliu2197\documents\visual studio 2013\Projects\NetCommunities-Client\NetCommunities-Client\bin\Debug\NetCommunities-Client.exe
+c:\users\aliu2197\documents\visual studio 2013\Projects\NetCommunities-Client\NetCommunities-Client\bin\Debug\NetCommunities-Client.pdb
+c:\users\aliu2197\documents\visual studio 2013\Projects\NetCommunities-Client\NetCommunities-Client\obj\Debug\NetCommunitiesServer.csprojResolveAssemblyReference.cache
+c:\users\aliu2197\documents\visual studio 2013\Projects\NetCommunities-Client\NetCommunities-Client\obj\Debug\NetCommunitiesServer.Form1.resources
+c:\users\aliu2197\documents\visual studio 2013\Projects\NetCommunities-Client\NetCommunities-Client\obj\Debug\NetCommunitiesServer.Properties.Resources.resources
+c:\users\aliu2197\documents\visual studio 2013\Projects\NetCommunities-Client\NetCommunities-Client\obj\Debug\NetCommunitiesServer.csproj.GenerateResource.Cache
+c:\users\aliu2197\documents\visual studio 2013\Projects\NetCommunities-Client\NetCommunities-Client\obj\Debug\NetCommunities-Client.exe
+c:\users\aliu2197\documents\visual studio 2013\Projects\NetCommunities-Client\NetCommunities-Client\obj\Debug\NetCommunities-Client.pdb

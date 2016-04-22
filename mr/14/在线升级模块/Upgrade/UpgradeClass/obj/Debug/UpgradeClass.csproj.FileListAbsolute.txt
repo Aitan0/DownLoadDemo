@@ -1,0 +1,15 @@
+E:\源码\C#程序开发典型模块大全（第二版）\mr\23\Upgrade\UpgradeClass\bin\Debug\UpgradeClass.dll
+E:\源码\C#程序开发典型模块大全（第二版）\mr\23\Upgrade\UpgradeClass\bin\Debug\UpgradeClass.pdb
+E:\源码\C#程序开发典型模块大全（第二版）\mr\23\Upgrade\UpgradeClass\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#程序开发典型模块大全（第二版）\mr\23\Upgrade\UpgradeClass\obj\Debug\UpgradeClass.dll
+E:\源码\C#程序开发典型模块大全（第二版）\mr\23\Upgrade\UpgradeClass\obj\Debug\UpgradeClass.pdb
+E:\源码\C#典型模块与项目实战大全\mr\17\在线升级模块\Upgrade\UpgradeClass\bin\Debug\UpgradeClass.dll
+E:\源码\C#典型模块与项目实战大全\mr\17\在线升级模块\Upgrade\UpgradeClass\bin\Debug\UpgradeClass.pdb
+E:\源码\C#典型模块与项目实战大全\mr\17\在线升级模块\Upgrade\UpgradeClass\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#典型模块与项目实战大全\mr\17\在线升级模块\Upgrade\UpgradeClass\obj\Debug\UpgradeClass.dll
+E:\源码\C#典型模块与项目实战大全\mr\17\在线升级模块\Upgrade\UpgradeClass\obj\Debug\UpgradeClass.pdb
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\17\在线升级模块\Upgrade\UpgradeClass\bin\Debug\UpgradeClass.dll
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\17\在线升级模块\Upgrade\UpgradeClass\bin\Debug\UpgradeClass.pdb
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\17\在线升级模块\Upgrade\UpgradeClass\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\17\在线升级模块\Upgrade\UpgradeClass\obj\Debug\UpgradeClass.dll
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\17\在线升级模块\Upgrade\UpgradeClass\obj\Debug\UpgradeClass.pdb

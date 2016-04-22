@@ -1,0 +1,15 @@
+E:\Project\DormManage\src\DMS\DMS.Common\bin\Debug\DMS.Common.dll
+E:\Project\DormManage\src\DMS\DMS.Common\bin\Debug\DMS.Common.pdb
+E:\Project\DormManage\src\DMS\DMS.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\DormManage\src\DMS\DMS.Common\obj\Debug\DMS.Common.dll
+E:\Project\DormManage\src\DMS\DMS.Common\obj\Debug\DMS.Common.pdb
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.Common\bin\Debug\DMS.Common.dll
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.Common\bin\Debug\DMS.Common.pdb
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.Common\obj\Debug\DMS.Common.csprojResolveAssemblyReference.cache
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.Common\obj\Debug\DMS.Common.dll
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.Common\obj\Debug\DMS.Common.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.Common\bin\Debug\DMS.Common.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.Common\bin\Debug\DMS.Common.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.Common\obj\Debug\DMS.Common.csprojResolveAssemblyReference.cache
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.Common\obj\Debug\DMS.Common.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.Common\obj\Debug\DMS.Common.pdb

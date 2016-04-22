@@ -1,0 +1,11 @@
+F:\源码\C#典型模块\Upgrade\UpgradeServer\obj\Debug\ResolveAssemblyReference.cache
+F:\源码\C#典型模块\Upgrade\UpgradeServer\obj\Debug\UpgradeServer.frmMain.resources
+F:\源码\C#典型模块\Upgrade\UpgradeServer\obj\Debug\UpgradeServer.frmNewFolder.resources
+F:\源码\C#典型模块\Upgrade\UpgradeServer\obj\Debug\UpgradeServer.Properties.Resources.resources
+F:\源码\C#典型模块\Upgrade\UpgradeServer\obj\Debug\UpgradeServer.csproj.GenerateResource.Cache
+F:\源码\C#典型模块\Upgrade\UpgradeServer\bin\Debug\UpgradeServer.exe
+F:\源码\C#典型模块\Upgrade\UpgradeServer\bin\Debug\UpgradeServer.pdb
+F:\源码\C#典型模块\Upgrade\UpgradeServer\bin\Debug\UpgradeClass.dll
+F:\源码\C#典型模块\Upgrade\UpgradeServer\bin\Debug\UpgradeClass.pdb
+F:\源码\C#典型模块\Upgrade\UpgradeServer\obj\Debug\UpgradeServer.exe
+F:\源码\C#典型模块\Upgrade\UpgradeServer\obj\Debug\UpgradeServer.pdb

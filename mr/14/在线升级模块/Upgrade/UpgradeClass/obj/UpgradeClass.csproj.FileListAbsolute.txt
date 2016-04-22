@@ -1,0 +1,5 @@
+F:\源码\C#典型模块\Upgrade\UpgradeClass\obj\Debug\ResolveAssemblyReference.cache
+F:\源码\C#典型模块\Upgrade\UpgradeClass\bin\Debug\UpgradeClass.dll
+F:\源码\C#典型模块\Upgrade\UpgradeClass\bin\Debug\UpgradeClass.pdb
+F:\源码\C#典型模块\Upgrade\UpgradeClass\obj\Debug\UpgradeClass.dll
+F:\源码\C#典型模块\Upgrade\UpgradeClass\obj\Debug\UpgradeClass.pdb

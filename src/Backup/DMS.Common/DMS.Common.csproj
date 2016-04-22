@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4DAB427B-9974-42FA-A0A9-23C4679440D7}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DMS.Common</RootNamespace>
+    <AssemblyName>DMS.Common</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.SqlServer.TxScript, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controls\DMSDataGrid.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ConvertHelper.cs" />
+    <Compile Include="ErrorException\BePressedForConfigException.cs" />
+    <Compile Include="Configer\ColorConfiguration.cs" />
+    <Compile Include="ColorInfo.cs" />
+    <Compile Include="ErrorException\ConfigSectionErrorException.cs" />
+    <Compile Include="ErrorException\ConfigSectionException.cs" />
+    <Compile Include="DateTimeHelper.cs" />
+    <Compile Include="DMSColor.cs" />
+    <Compile Include="FileHelper.cs" />
+    <Compile Include="FileWatcher.cs" />
+    <Compile Include="Loger.cs" />
+    <Compile Include="MsgHelper.cs" />
+    <Compile Include="ErrorException\NotFoundConfigSectionException.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reflector.cs" />
+    <Compile Include="SortList.cs" />
+    <Compile Include="Validate\CustomValidater.cs" />
+    <Compile Include="Validate\ErrorManager.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Validate\TextValidater.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Validate\UIValidater.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Validate\Validater.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ErrorException\XmlConfigDocumentException.cs" />
+    <Compile Include="Configer\XmlConfiger.cs" />
+    <Compile Include="Configer\XmlConfigurationManager.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

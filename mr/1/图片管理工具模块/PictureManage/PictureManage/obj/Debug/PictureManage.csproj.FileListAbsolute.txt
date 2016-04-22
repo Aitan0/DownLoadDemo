@@ -1,0 +1,75 @@
+E:\源码\C#程序开发典型模块大全（第二版）\mr\12\PictureManage\PictureManage\obj\Debug\PictureManage.exe
+E:\源码\C#程序开发典型模块大全（第二版）\mr\12\PictureManage\PictureManage\obj\Debug\PictureManage.pdb
+E:\源码\C#程序开发典型模块大全（第二版）\mr\12\PictureManage\PictureManage\bin\Debug\PictureManage.exe
+E:\源码\C#程序开发典型模块大全（第二版）\mr\12\PictureManage\PictureManage\bin\Debug\PictureManage.pdb
+E:\源码\C#程序开发典型模块大全（第二版）\mr\12\PictureManage\PictureManage\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#程序开发典型模块大全（第二版）\mr\12\PictureManage\PictureManage\obj\Debug\PictureManage.frmMain.resources
+E:\源码\C#程序开发典型模块大全（第二版）\mr\12\PictureManage\PictureManage\obj\Debug\PictureManage.frmPicAdjust.resources
+E:\源码\C#程序开发典型模块大全（第二版）\mr\12\PictureManage\PictureManage\obj\Debug\PictureManage.frmPictureMax.resources
+E:\源码\C#程序开发典型模块大全（第二版）\mr\12\PictureManage\PictureManage\obj\Debug\PictureManage.frmRename.resources
+E:\源码\C#程序开发典型模块大全（第二版）\mr\12\PictureManage\PictureManage\obj\Debug\PictureManage.frmSlide.resources
+E:\源码\C#程序开发典型模块大全（第二版）\mr\12\PictureManage\PictureManage\obj\Debug\PictureManage.frmSpecialEfficacy.resources
+E:\源码\C#程序开发典型模块大全（第二版）\mr\12\PictureManage\PictureManage\obj\Debug\PictureManage.frmWater.resources
+E:\源码\C#程序开发典型模块大全（第二版）\mr\12\PictureManage\PictureManage\obj\Debug\PictureManage.Properties.Resources.resources
+E:\源码\C#程序开发典型模块大全（第二版）\mr\12\PictureManage\PictureManage\obj\Debug\PictureManage.csproj.GenerateResource.Cache
+E:\模块与项目大全系列\项目\12\PictureManage\PictureManage\obj\Debug\PictureManage.exe
+E:\模块与项目大全系列\项目\12\PictureManage\PictureManage\obj\Debug\PictureManage.pdb
+E:\模块与项目大全系列\项目\12\PictureManage\PictureManage\bin\Debug\PictureManage.exe
+E:\模块与项目大全系列\项目\12\PictureManage\PictureManage\bin\Debug\PictureManage.pdb
+E:\模块与项目大全系列\项目\12\PictureManage\PictureManage\obj\Debug\ResolveAssemblyReference.cache
+E:\模块与项目大全系列\项目\12\PictureManage\PictureManage\obj\Debug\PictureManage.frmMain.resources
+E:\模块与项目大全系列\项目\12\PictureManage\PictureManage\obj\Debug\PictureManage.frmPicAdjust.resources
+E:\模块与项目大全系列\项目\12\PictureManage\PictureManage\obj\Debug\PictureManage.frmPictureMax.resources
+E:\模块与项目大全系列\项目\12\PictureManage\PictureManage\obj\Debug\PictureManage.frmRename.resources
+E:\模块与项目大全系列\项目\12\PictureManage\PictureManage\obj\Debug\PictureManage.frmSlide.resources
+E:\模块与项目大全系列\项目\12\PictureManage\PictureManage\obj\Debug\PictureManage.frmSpecialEfficacy.resources
+E:\模块与项目大全系列\项目\12\PictureManage\PictureManage\obj\Debug\PictureManage.frmWater.resources
+E:\模块与项目大全系列\项目\12\PictureManage\PictureManage\obj\Debug\PictureManage.Properties.Resources.resources
+E:\模块与项目大全系列\项目\12\PictureManage\PictureManage\obj\Debug\PictureManage.csproj.GenerateResource.Cache
+E:\源码\C#典型模块与项目实战大全\mr\范文龙\12\PictureManage\PictureManage\obj\Debug\PictureManage.exe
+E:\源码\C#典型模块与项目实战大全\mr\范文龙\12\PictureManage\PictureManage\obj\Debug\PictureManage.pdb
+E:\源码\C#典型模块与项目实战大全\mr\1\PictureManage\PictureManage\obj\Debug\PictureManage.exe
+E:\源码\C#典型模块与项目实战大全\mr\1\PictureManage\PictureManage\obj\Debug\PictureManage.pdb
+E:\源码\C#典型模块与项目实战大全\mr\1\PictureManage\PictureManage\bin\Debug\PictureManage.exe
+E:\源码\C#典型模块与项目实战大全\mr\1\PictureManage\PictureManage\bin\Debug\PictureManage.pdb
+E:\源码\C#典型模块与项目实战大全\mr\1\PictureManage\PictureManage\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#典型模块与项目实战大全\mr\1\PictureManage\PictureManage\obj\Debug\PictureManage.frmMain.resources
+E:\源码\C#典型模块与项目实战大全\mr\1\PictureManage\PictureManage\obj\Debug\PictureManage.frmPicAdjust.resources
+E:\源码\C#典型模块与项目实战大全\mr\1\PictureManage\PictureManage\obj\Debug\PictureManage.frmPictureMax.resources
+E:\源码\C#典型模块与项目实战大全\mr\1\PictureManage\PictureManage\obj\Debug\PictureManage.frmRename.resources
+E:\源码\C#典型模块与项目实战大全\mr\1\PictureManage\PictureManage\obj\Debug\PictureManage.frmSlide.resources
+E:\源码\C#典型模块与项目实战大全\mr\1\PictureManage\PictureManage\obj\Debug\PictureManage.frmSpecialEfficacy.resources
+E:\源码\C#典型模块与项目实战大全\mr\1\PictureManage\PictureManage\obj\Debug\PictureManage.frmWater.resources
+E:\源码\C#典型模块与项目实战大全\mr\1\PictureManage\PictureManage\obj\Debug\PictureManage.Properties.Resources.resources
+E:\源码\C#典型模块与项目实战大全\mr\1\PictureManage\PictureManage\obj\Debug\PictureManage.csproj.GenerateResource.Cache
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\1\PictureManage\PictureManage\bin\Debug\PictureManage.exe.config
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\1\PictureManage\PictureManage\bin\Debug\PictureManage.exe
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\1\PictureManage\PictureManage\bin\Debug\PictureManage.pdb
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\1\PictureManage\PictureManage\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\1\PictureManage\PictureManage\obj\Debug\PictureManage.frmMain.resources
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\1\PictureManage\PictureManage\obj\Debug\PictureManage.frmPicAdjust.resources
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\1\PictureManage\PictureManage\obj\Debug\PictureManage.frmPictureMax.resources
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\1\PictureManage\PictureManage\obj\Debug\PictureManage.frmRename.resources
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\1\PictureManage\PictureManage\obj\Debug\PictureManage.frmSlide.resources
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\1\PictureManage\PictureManage\obj\Debug\PictureManage.frmSpecialEfficacy.resources
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\1\PictureManage\PictureManage\obj\Debug\PictureManage.frmWater.resources
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\1\PictureManage\PictureManage\obj\Debug\PictureManage.Properties.Resources.resources
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\1\PictureManage\PictureManage\obj\Debug\GenerateResource.read.1.tlog
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\1\PictureManage\PictureManage\obj\Debug\GenerateResource.write.1.tlog
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\1\PictureManage\PictureManage\obj\Debug\PictureManage.exe
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\1\PictureManage\PictureManage\obj\Debug\PictureManage.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\1\图片管理工具模块\PictureManage\PictureManage\bin\Debug\PictureManage.exe.config
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\1\图片管理工具模块\PictureManage\PictureManage\bin\Debug\PictureManage.exe
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\1\图片管理工具模块\PictureManage\PictureManage\bin\Debug\PictureManage.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\1\图片管理工具模块\PictureManage\PictureManage\obj\Debug\PictureManage.csprojResolveAssemblyReference.cache
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\1\图片管理工具模块\PictureManage\PictureManage\obj\Debug\PictureManage.frmMain.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\1\图片管理工具模块\PictureManage\PictureManage\obj\Debug\PictureManage.frmPicAdjust.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\1\图片管理工具模块\PictureManage\PictureManage\obj\Debug\PictureManage.frmPictureMax.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\1\图片管理工具模块\PictureManage\PictureManage\obj\Debug\PictureManage.frmRename.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\1\图片管理工具模块\PictureManage\PictureManage\obj\Debug\PictureManage.frmSlide.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\1\图片管理工具模块\PictureManage\PictureManage\obj\Debug\PictureManage.frmSpecialEfficacy.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\1\图片管理工具模块\PictureManage\PictureManage\obj\Debug\PictureManage.frmWater.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\1\图片管理工具模块\PictureManage\PictureManage\obj\Debug\PictureManage.Properties.Resources.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\1\图片管理工具模块\PictureManage\PictureManage\obj\Debug\PictureManage.csproj.GenerateResource.Cache
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\1\图片管理工具模块\PictureManage\PictureManage\obj\Debug\PictureManage.exe
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\1\图片管理工具模块\PictureManage\PictureManage\obj\Debug\PictureManage.pdb

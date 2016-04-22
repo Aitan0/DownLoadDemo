@@ -1,0 +1,10 @@
+E:\Project\DormManage\src\DMS\DMS.BaseORMappers\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\DormManage\src\DMS\DMS.BaseORMappers\bin\Debug\DMS.BaseORMappers.dll
+E:\Project\DormManage\src\DMS\DMS.BaseORMappers\bin\Debug\DMS.BaseORMappers.pdb
+E:\Project\DormManage\src\DMS\DMS.BaseORMappers\obj\Debug\DMS.BaseORMappers.dll
+E:\Project\DormManage\src\DMS\DMS.BaseORMappers\obj\Debug\DMS.BaseORMappers.pdb
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.BaseORMappers\bin\Debug\DMS.BaseORMappers.dll
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.BaseORMappers\bin\Debug\DMS.BaseORMappers.pdb
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.BaseORMappers\obj\Debug\DMS.BaseORMappers.csprojResolveAssemblyReference.cache
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.BaseORMappers\obj\Debug\DMS.BaseORMappers.dll
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.BaseORMappers\obj\Debug\DMS.BaseORMappers.pdb

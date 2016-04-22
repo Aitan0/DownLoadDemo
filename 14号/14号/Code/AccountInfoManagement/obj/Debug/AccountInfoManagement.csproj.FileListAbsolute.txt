@@ -1,0 +1,26 @@
+C:\Users\aliu2197\Desktop\14号\14号\Code\AccountInfoManagement\bin\Debug\AccountInfoManagement.dll
+C:\Users\aliu2197\Desktop\14号\14号\Code\AccountInfoManagement\bin\Debug\AccountInfoManagement.pdb
+C:\Users\aliu2197\Desktop\14号\14号\Code\AccountInfoManagement\bin\Debug\Config.dll
+C:\Users\aliu2197\Desktop\14号\14号\Code\AccountInfoManagement\bin\Debug\Data.dll
+C:\Users\aliu2197\Desktop\14号\14号\Code\AccountInfoManagement\bin\Debug\Config.pdb
+C:\Users\aliu2197\Desktop\14号\14号\Code\AccountInfoManagement\bin\Debug\Data.pdb
+C:\Users\aliu2197\Desktop\14号\14号\Code\AccountInfoManagement\obj\Debug\AccountInfoManagement.csprojResolveAssemblyReference.cache
+C:\Users\aliu2197\Desktop\14号\14号\Code\AccountInfoManagement\obj\Debug\HotelManagementSystem.AccountInfoManagement.AddAccountInfoManagement.resources
+C:\Users\aliu2197\Desktop\14号\14号\Code\AccountInfoManagement\obj\Debug\HotelManagementSystem.AccountInfoManagement.ChangeAccountInfoManagement.resources
+C:\Users\aliu2197\Desktop\14号\14号\Code\AccountInfoManagement\obj\Debug\HotelManagementSystem.AccountInfoManagement.SelectAccountInfoManagement.resources
+C:\Users\aliu2197\Desktop\14号\14号\Code\AccountInfoManagement\obj\Debug\AccountInfoManagement.csproj.GenerateResource.Cache
+C:\Users\aliu2197\Desktop\14号\14号\Code\AccountInfoManagement\obj\Debug\AccountInfoManagement.dll
+C:\Users\aliu2197\Desktop\14号\14号\Code\AccountInfoManagement\obj\Debug\AccountInfoManagement.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\AccountInfoManagement\bin\Debug\AccountInfoManagement.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\AccountInfoManagement\bin\Debug\AccountInfoManagement.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\AccountInfoManagement\bin\Debug\Config.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\AccountInfoManagement\bin\Debug\Data.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\AccountInfoManagement\bin\Debug\Config.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\AccountInfoManagement\bin\Debug\Data.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\AccountInfoManagement\obj\Debug\AccountInfoManagement.csprojResolveAssemblyReference.cache
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\AccountInfoManagement\obj\Debug\HotelManagementSystem.AccountInfoManagement.AddAccountInfoManagement.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\AccountInfoManagement\obj\Debug\HotelManagementSystem.AccountInfoManagement.ChangeAccountInfoManagement.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\AccountInfoManagement\obj\Debug\HotelManagementSystem.AccountInfoManagement.SelectAccountInfoManagement.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\AccountInfoManagement\obj\Debug\AccountInfoManagement.csproj.GenerateResource.Cache
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\AccountInfoManagement\obj\Debug\AccountInfoManagement.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\AccountInfoManagement\obj\Debug\AccountInfoManagement.pdb

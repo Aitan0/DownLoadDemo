@@ -1,0 +1,101 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelManagementSystem", "HotelManagementSystem.csproj", "{5D24CBBB-F958-4068-9418-56425DCE0F66}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderRoomInfoManagement", "..\OrderRoomInfoManagement\OrderRoomInfoManagement.csproj", "{B6C8A88D-8550-4074-9943-C52F40F7153D}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountInfoManagement", "..\AccountInfoManagement\AccountInfoManagement.csproj", "{0ADE626C-4DA6-4E0C-BB9A-E49043B74052}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Config", "..\Config\Config.csproj", "{7883C450-FA11-4EB8-8AA2-BD8A2DE208E1}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "..\Data\Data.csproj", "{2BD946C2-12FF-499F-9492-AA44CE1B655A}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoomStandardManagement", "..\RoomStardardManagement\RoomStandardManagement.csproj", "{4FBEFA64-105A-4B66-8B86-7B0330B56BAD}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoomInfoManagement", "..\RoomInfoManagement\RoomInfoManagement.csproj", "{34840C9E-EC65-47E4-A39E-A809E29C0A8D}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemManagement", "..\SystemManagement\SystemManagement.csproj", "{12582B43-3E4F-4B45-BB9E-68C49BFB651E}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HistoryManagement", "..\HistoryManagement\HistoryManagement.csproj", "{E0D46429-2CD0-4CE3-A02D-585FDF5EE579}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveListManagement", "..\LiveListManagement\LiveListManagement.csproj", "{F8F73FFD-5647-428C-B6D3-09EECB3EEA55}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Hotel_Setup", "..\Hotel_Setup\Hotel_Setup.vdproj", "{4A549A29-EDA1-4D2E-938D-56B3DFDAC884}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{5D24CBBB-F958-4068-9418-56425DCE0F66}.Debug.ActiveCfg = Debug|.NET
+		{5D24CBBB-F958-4068-9418-56425DCE0F66}.Debug.Build.0 = Debug|.NET
+		{5D24CBBB-F958-4068-9418-56425DCE0F66}.Release.ActiveCfg = Release|.NET
+		{5D24CBBB-F958-4068-9418-56425DCE0F66}.Release.Build.0 = Release|.NET
+		{B6C8A88D-8550-4074-9943-C52F40F7153D}.Debug.ActiveCfg = Debug|.NET
+		{B6C8A88D-8550-4074-9943-C52F40F7153D}.Debug.Build.0 = Debug|.NET
+		{B6C8A88D-8550-4074-9943-C52F40F7153D}.Release.ActiveCfg = Release|.NET
+		{B6C8A88D-8550-4074-9943-C52F40F7153D}.Release.Build.0 = Release|.NET
+		{0ADE626C-4DA6-4E0C-BB9A-E49043B74052}.Debug.ActiveCfg = Debug|.NET
+		{0ADE626C-4DA6-4E0C-BB9A-E49043B74052}.Debug.Build.0 = Debug|.NET
+		{0ADE626C-4DA6-4E0C-BB9A-E49043B74052}.Release.ActiveCfg = Release|.NET
+		{0ADE626C-4DA6-4E0C-BB9A-E49043B74052}.Release.Build.0 = Release|.NET
+		{7883C450-FA11-4EB8-8AA2-BD8A2DE208E1}.Debug.ActiveCfg = Debug|.NET
+		{7883C450-FA11-4EB8-8AA2-BD8A2DE208E1}.Debug.Build.0 = Debug|.NET
+		{7883C450-FA11-4EB8-8AA2-BD8A2DE208E1}.Release.ActiveCfg = Release|.NET
+		{7883C450-FA11-4EB8-8AA2-BD8A2DE208E1}.Release.Build.0 = Release|.NET
+		{2BD946C2-12FF-499F-9492-AA44CE1B655A}.Debug.ActiveCfg = Debug|.NET
+		{2BD946C2-12FF-499F-9492-AA44CE1B655A}.Debug.Build.0 = Debug|.NET
+		{2BD946C2-12FF-499F-9492-AA44CE1B655A}.Release.ActiveCfg = Release|.NET
+		{2BD946C2-12FF-499F-9492-AA44CE1B655A}.Release.Build.0 = Release|.NET
+		{4FBEFA64-105A-4B66-8B86-7B0330B56BAD}.Debug.ActiveCfg = Debug|.NET
+		{4FBEFA64-105A-4B66-8B86-7B0330B56BAD}.Debug.Build.0 = Debug|.NET
+		{4FBEFA64-105A-4B66-8B86-7B0330B56BAD}.Release.ActiveCfg = Release|.NET
+		{4FBEFA64-105A-4B66-8B86-7B0330B56BAD}.Release.Build.0 = Release|.NET
+		{34840C9E-EC65-47E4-A39E-A809E29C0A8D}.Debug.ActiveCfg = Debug|.NET
+		{34840C9E-EC65-47E4-A39E-A809E29C0A8D}.Debug.Build.0 = Debug|.NET
+		{34840C9E-EC65-47E4-A39E-A809E29C0A8D}.Release.ActiveCfg = Release|.NET
+		{34840C9E-EC65-47E4-A39E-A809E29C0A8D}.Release.Build.0 = Release|.NET
+		{12582B43-3E4F-4B45-BB9E-68C49BFB651E}.Debug.ActiveCfg = Debug|.NET
+		{12582B43-3E4F-4B45-BB9E-68C49BFB651E}.Debug.Build.0 = Debug|.NET
+		{12582B43-3E4F-4B45-BB9E-68C49BFB651E}.Release.ActiveCfg = Release|.NET
+		{12582B43-3E4F-4B45-BB9E-68C49BFB651E}.Release.Build.0 = Release|.NET
+		{E0D46429-2CD0-4CE3-A02D-585FDF5EE579}.Debug.ActiveCfg = Debug|.NET
+		{E0D46429-2CD0-4CE3-A02D-585FDF5EE579}.Debug.Build.0 = Debug|.NET
+		{E0D46429-2CD0-4CE3-A02D-585FDF5EE579}.Release.ActiveCfg = Release|.NET
+		{E0D46429-2CD0-4CE3-A02D-585FDF5EE579}.Release.Build.0 = Release|.NET
+		{F8F73FFD-5647-428C-B6D3-09EECB3EEA55}.Debug.ActiveCfg = Debug|.NET
+		{F8F73FFD-5647-428C-B6D3-09EECB3EEA55}.Debug.Build.0 = Debug|.NET
+		{F8F73FFD-5647-428C-B6D3-09EECB3EEA55}.Release.ActiveCfg = Release|.NET
+		{F8F73FFD-5647-428C-B6D3-09EECB3EEA55}.Release.Build.0 = Release|.NET
+		{4A549A29-EDA1-4D2E-938D-56B3DFDAC884}.Debug.ActiveCfg = Debug
+		{4A549A29-EDA1-4D2E-938D-56B3DFDAC884}.Release.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

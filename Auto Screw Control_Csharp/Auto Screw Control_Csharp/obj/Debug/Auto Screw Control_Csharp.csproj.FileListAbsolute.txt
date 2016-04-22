@@ -1,0 +1,12 @@
+c:\users\aliu2197\documents\visual studio 2013\Projects\Auto Screw Control_Csharp\Auto Screw Control_Csharp\bin\Debug\Auto Screw Control_Csharp.exe.config
+c:\users\aliu2197\documents\visual studio 2013\Projects\Auto Screw Control_Csharp\Auto Screw Control_Csharp\obj\Debug\Auto Screw Control_Csharp.csprojResolveAssemblyReference.cache
+c:\users\aliu2197\documents\visual studio 2013\Projects\Auto Screw Control_Csharp\Auto Screw Control_Csharp\obj\Debug\Auto_Screw_Control_Csharp.ConfigForm.resources
+c:\users\aliu2197\documents\visual studio 2013\Projects\Auto Screw Control_Csharp\Auto Screw Control_Csharp\obj\Debug\Auto_Screw_Control_Csharp.ControlForm.resources
+c:\users\aliu2197\documents\visual studio 2013\Projects\Auto Screw Control_Csharp\Auto Screw Control_Csharp\obj\Debug\Auto_Screw_Control_Csharp.Path.resources
+c:\users\aliu2197\documents\visual studio 2013\Projects\Auto Screw Control_Csharp\Auto Screw Control_Csharp\obj\Debug\Auto_Screw_Control_Csharp.Properties.Resources.resources
+c:\users\aliu2197\documents\visual studio 2013\Projects\Auto Screw Control_Csharp\Auto Screw Control_Csharp\obj\Debug\Auto Screw Control_Csharp.csproj.GenerateResource.Cache
+c:\users\aliu2197\documents\visual studio 2013\Projects\Auto Screw Control_Csharp\Auto Screw Control_Csharp\bin\Debug\Auto Screw Control_Csharp.exe
+c:\users\aliu2197\documents\visual studio 2013\Projects\Auto Screw Control_Csharp\Auto Screw Control_Csharp\bin\Debug\Auto Screw Control_Csharp.pdb
+c:\users\aliu2197\documents\visual studio 2013\Projects\Auto Screw Control_Csharp\Auto Screw Control_Csharp\obj\Debug\Auto Screw Control_Csharp.exe
+c:\users\aliu2197\documents\visual studio 2013\Projects\Auto Screw Control_Csharp\Auto Screw Control_Csharp\obj\Debug\Auto Screw Control_Csharp.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\Auto Screw Control_Csharp\Auto Screw Control_Csharp\obj\Debug\Auto_Screw_Control_Csharp.ConfigFile.resources

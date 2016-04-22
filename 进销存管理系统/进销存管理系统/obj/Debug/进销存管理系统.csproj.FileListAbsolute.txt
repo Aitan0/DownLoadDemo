@@ -1,0 +1,11 @@
+c:\users\aliu2197\documents\visual studio 2013\Projects\进销存管理系统\进销存管理系统\bin\Debug\进销存管理系统.exe.config
+c:\users\aliu2197\documents\visual studio 2013\Projects\进销存管理系统\进销存管理系统\obj\Debug\进销存管理系统.csprojResolveAssemblyReference.cache
+c:\users\aliu2197\documents\visual studio 2013\Projects\进销存管理系统\进销存管理系统\obj\Debug\进销存管理系统.Form1.resources
+c:\users\aliu2197\documents\visual studio 2013\Projects\进销存管理系统\进销存管理系统\obj\Debug\进销存管理系统.Properties.Resources.resources
+c:\users\aliu2197\documents\visual studio 2013\Projects\进销存管理系统\进销存管理系统\obj\Debug\进销存管理系统.csproj.GenerateResource.Cache
+c:\users\aliu2197\documents\visual studio 2013\Projects\进销存管理系统\进销存管理系统\bin\Debug\db_EMS.mdf
+c:\users\aliu2197\documents\visual studio 2013\Projects\进销存管理系统\进销存管理系统\bin\Debug\db_EMS_log.ldf
+c:\users\aliu2197\documents\visual studio 2013\Projects\进销存管理系统\进销存管理系统\bin\Debug\进销存管理系统.exe
+c:\users\aliu2197\documents\visual studio 2013\Projects\进销存管理系统\进销存管理系统\bin\Debug\进销存管理系统.pdb
+c:\users\aliu2197\documents\visual studio 2013\Projects\进销存管理系统\进销存管理系统\obj\Debug\进销存管理系统.exe
+c:\users\aliu2197\documents\visual studio 2013\Projects\进销存管理系统\进销存管理系统\obj\Debug\进销存管理系统.pdb

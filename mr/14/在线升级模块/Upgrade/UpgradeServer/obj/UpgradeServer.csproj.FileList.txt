@@ -1,0 +1,11 @@
+bin\Debug\UpgradeServer.exe
+bin\Debug\UpgradeServer.pdb
+bin\Debug\UpgradeClass.dll
+bin\Debug\UpgradeClass.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\UpgradeServer.frmMain.resources
+obj\Debug\UpgradeServer.frmNewFolder.resources
+obj\Debug\UpgradeServer.Properties.Resources.resources
+obj\Debug\UpgradeServer.csproj.GenerateResource.Cache
+obj\Debug\UpgradeServer.exe
+obj\Debug\UpgradeServer.pdb

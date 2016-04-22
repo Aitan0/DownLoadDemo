@@ -1,0 +1,2 @@
+USER1 : ID = "1001"  NAME = "zhangsan"  pwd = "zhang123"  Grade = "∏ﬂº∂"
+USER2 : ID = "1002"  NAME = "lisi"  pwd = "li123"  Grade = "∆’Õ®"

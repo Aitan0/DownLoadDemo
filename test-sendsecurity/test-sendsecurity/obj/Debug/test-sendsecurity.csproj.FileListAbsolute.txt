@@ -1,0 +1,5 @@
+c:\users\aliu2197\documents\visual studio 2013\Projects\test-sendsecurity\test-sendsecurity\bin\Debug\test-sendsecurity.dll
+c:\users\aliu2197\documents\visual studio 2013\Projects\test-sendsecurity\test-sendsecurity\bin\Debug\test-sendsecurity.pdb
+c:\users\aliu2197\documents\visual studio 2013\Projects\test-sendsecurity\test-sendsecurity\obj\Debug\test-sendsecurity.csprojResolveAssemblyReference.cache
+c:\users\aliu2197\documents\visual studio 2013\Projects\test-sendsecurity\test-sendsecurity\obj\Debug\test-sendsecurity.dll
+c:\users\aliu2197\documents\visual studio 2013\Projects\test-sendsecurity\test-sendsecurity\obj\Debug\test-sendsecurity.pdb

@@ -1,0 +1,547 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0054A9F8-949B-4F65-BA15-96D4C4F3CBAF}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DMS.UI</RootNamespace>
+    <AssemblyName>DMS.UI</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Common\BaseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Common\BaseForm.Designer.cs">
+      <DependentUpon>BaseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\ChildrenForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Common\CommandsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Common\CommandType.cs" />
+    <Compile Include="Common\CommandVisibleStateManager.cs" />
+    <Compile Include="Common\CommonModule.cs" />
+    <Compile Include="Common\CRUDListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Common\CRUDListForm.Designer.cs">
+      <DependentUpon>CRUDListForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\DataGridDictionary.cs" />
+    <Compile Include="Common\DataGridStyleHelper.cs" />
+    <Compile Include="Common\DetailForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Common\DetailForm.Designer.cs">
+      <DependentUpon>DetailForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\DMSImageManager.cs" />
+    <Compile Include="Common\IModule.cs" />
+    <Compile Include="Common\ListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Common\ListForm.Designer.cs">
+      <DependentUpon>ListForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\ToolBarCommand.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Common\ToolStripButtonBuilder.cs" />
+    <Compile Include="CustomerControl\DMSButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CustomerControl\DMSCombox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CustomerControl\DMSDateTimePicker.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CustomerControl\DMSLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CustomerControl\DMSMutilineTextbox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CustomerControl\DMSTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CustomerControl\DMSTreeView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Common\DetailForm.resx">
+      <DependentUpon>DetailForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Common\ListForm.resx">
+      <DependentUpon>ListForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemManage\DictionaryManage\AddDictionaryForm.resx">
+      <DependentUpon>AddDictionaryForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemManage\DictionaryManage\DictionaryFormBase.resx">
+      <DependentUpon>DictionaryFormBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemManage\DictionaryManage\EditDictionaryForm.resx">
+      <DependentUpon>EditDictionaryForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemManage\DictionaryManage\ViewDictionaryForm.resx">
+      <DependentUpon>ViewDictionaryForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemManage\EditionManage\AddEditionForm.resx">
+      <DependentUpon>AddEditionForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemManage\EditionManage\EditEditionForm.resx">
+      <DependentUpon>EditEditionForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemManage\EditionManage\EditionFormBase.resx">
+      <DependentUpon>EditionFormBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemManage\EditionManage\EditionMainForm.resx">
+      <DependentUpon>EditionMainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemManage\EditionManage\ViewEditionForm.resx">
+      <DependentUpon>ViewEditionForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemManage\LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemManage\ModuleManage\AddModuleForm.resx">
+      <DependentUpon>AddModuleForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemManage\ModuleManage\EditModuleForm.resx">
+      <DependentUpon>EditModuleForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemManage\ModuleManage\ModuleFormBase.resx">
+      <DependentUpon>ModuleFormBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemManage\ModuleManage\ModuleMainForm.resx">
+      <DependentUpon>ModuleMainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemManage\ModuleManage\ViewModuleForm.resx">
+      <DependentUpon>ViewModuleForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemManage\RoleManage\AddRoleForm.resx">
+      <DependentUpon>AddRoleForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemManage\RoleManage\EditRoleForm.resx">
+      <DependentUpon>EditRoleForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemManage\RoleManage\RoleFormBase.resx">
+      <DependentUpon>RoleFormBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemManage\RoleManage\ViewRoleForm.resx">
+      <DependentUpon>ViewRoleForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemManage\UserForm.resx">
+      <DependentUpon>UserForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemManage\UserManage\AddUserForm.resx">
+      <DependentUpon>AddUserForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemManage\UserManage\EditUserForm.resx">
+      <DependentUpon>EditUserForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemManage\UserManage\UserFormBase.resx">
+      <DependentUpon>UserFormBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemManage\UserManage\UserMainForm.resx">
+      <DependentUpon>UserMainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="SystemManage\DictionaryManage\AddDictionaryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemManage\DictionaryManage\AddDictionaryForm.Designer.cs">
+      <DependentUpon>AddDictionaryForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemManage\DictionaryManage\DictionaryFormBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemManage\DictionaryManage\DictionaryFormBase.Designer.cs">
+      <DependentUpon>DictionaryFormBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemManage\DictionaryManage\DictionaryFunctions.cs" />
+    <Compile Include="SystemManage\DictionaryManage\DictionaryMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemManage\DictionaryManage\DictionaryMainForm.Designer.cs">
+      <DependentUpon>DictionaryMainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemManage\DictionaryManage\DictionaryRunner.cs" />
+    <Compile Include="SystemManage\DictionaryManage\EditDictionaryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemManage\DictionaryManage\EditDictionaryForm.Designer.cs">
+      <DependentUpon>EditDictionaryForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemManage\DictionaryManage\ViewDictionaryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemManage\DictionaryManage\ViewDictionaryForm.Designer.cs">
+      <DependentUpon>ViewDictionaryForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemManage\EditionManage\AddEditionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemManage\EditionManage\AddEditionForm.Designer.cs">
+      <DependentUpon>AddEditionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemManage\EditionManage\EditEditionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemManage\EditionManage\EditEditionForm.Designer.cs">
+      <DependentUpon>EditEditionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemManage\EditionManage\EditionFormBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemManage\EditionManage\EditionFormBase.Designer.cs">
+      <DependentUpon>EditionFormBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemManage\EditionManage\EditionFunctions.cs" />
+    <Compile Include="SystemManage\EditionManage\EditionMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemManage\EditionManage\EditionMainForm.Designer.cs">
+      <DependentUpon>EditionMainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemManage\EditionManage\EditionRunner.cs" />
+    <Compile Include="SystemManage\EditionManage\ViewEditionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemManage\EditionManage\ViewEditionForm.Designer.cs">
+      <DependentUpon>ViewEditionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemManage\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemManage\LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemManage\ModuleManage\AddModuleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemManage\ModuleManage\AddModuleForm.Designer.cs">
+      <DependentUpon>AddModuleForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemManage\ModuleManage\EditModuleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemManage\ModuleManage\EditModuleForm.Designer.cs">
+      <DependentUpon>EditModuleForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemManage\ModuleManage\ModuleFormBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemManage\ModuleManage\ModuleFormBase.Designer.cs">
+      <DependentUpon>ModuleFormBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemManage\ModuleManage\ModuleFunctions.cs" />
+    <Compile Include="SystemManage\ModuleManage\ModuleMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemManage\ModuleManage\ModuleMainForm.Designer.cs">
+      <DependentUpon>ModuleMainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemManage\ModuleManage\ModuleRunner.cs" />
+    <Compile Include="SystemManage\ModuleManage\ViewModuleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemManage\ModuleManage\ViewModuleForm.Designer.cs">
+      <DependentUpon>ViewModuleForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemManage\RoleManage\AddRoleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemManage\RoleManage\AddRoleForm.Designer.cs">
+      <DependentUpon>AddRoleForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemManage\RoleManage\EditRoleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemManage\RoleManage\EditRoleForm.Designer.cs">
+      <DependentUpon>EditRoleForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemManage\RoleManage\RoleFormBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemManage\RoleManage\RoleFormBase.Designer.cs">
+      <DependentUpon>RoleFormBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemManage\RoleManage\RoleFunctions.cs" />
+    <Compile Include="SystemManage\RoleManage\RoleMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemManage\RoleManage\RoleMainForm.Designer.cs">
+      <DependentUpon>RoleMainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemManage\RoleManage\RoleRunner.cs" />
+    <Compile Include="SystemManage\UserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemManage\UserForm.Designer.cs">
+      <DependentUpon>UserForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemManage\UserManage\AddUserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemManage\UserManage\AddUserForm.Designer.cs">
+      <DependentUpon>AddUserForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemManage\UserManage\EditUserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemManage\UserManage\EditUserForm.Designer.cs">
+      <DependentUpon>EditUserForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemManage\UserManage\UserFormBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemManage\UserManage\UserFormBase.Designer.cs">
+      <DependentUpon>UserFormBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemManage\UserManage\UserFunctions.cs" />
+    <Compile Include="SystemManage\UserManage\UserMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemManage\UserManage\UserMainForm.Designer.cs">
+      <DependentUpon>UserMainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemManage\UserManage\UserRunner.cs" />
+    <Compile Include="SystemManage\RoleManage\ViewRoleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemManage\RoleManage\ViewRoleForm.Designer.cs">
+      <DependentUpon>ViewRoleForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemManage\UserManage\ViewUserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemManage\UserManage\ViewUserForm.Designer.cs">
+      <DependentUpon>ViewUserForm.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DMS.Common\DMS.Common.csproj">
+      <Project>{4DAB427B-9974-42FA-A0A9-23C4679440D7}</Project>
+      <Name>DMS.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DMS.DomainObjects\DMS.DomainObjects.csproj">
+      <Project>{136358BF-B1A7-4503-934D-41A15EC1BB09}</Project>
+      <Name>DMS.DomainObjects</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_27.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\module.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\module_select.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\taskFormOne.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\template.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\m01_0021.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_07.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_06.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_08.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_02.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clearshuju.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_04.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_21a.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tubiao.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_11.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_26.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_29.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ToolButton_ExportExcel.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\daochumoban.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_28.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_25.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_15.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\daorushuju.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_17.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_01.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_22.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_24a.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_23.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_12.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_20.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_18.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_09.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_19.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_14.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_30.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_13.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_05.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_10.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_03.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

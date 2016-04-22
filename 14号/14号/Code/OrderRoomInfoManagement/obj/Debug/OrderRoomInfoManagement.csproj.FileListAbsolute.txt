@@ -1,0 +1,26 @@
+C:\Users\aliu2197\Desktop\14号\14号\Code\OrderRoomInfoManagement\bin\Debug\OrderRoomInfoManagement.dll
+C:\Users\aliu2197\Desktop\14号\14号\Code\OrderRoomInfoManagement\bin\Debug\OrderRoomInfoManagement.pdb
+C:\Users\aliu2197\Desktop\14号\14号\Code\OrderRoomInfoManagement\bin\Debug\Config.dll
+C:\Users\aliu2197\Desktop\14号\14号\Code\OrderRoomInfoManagement\bin\Debug\Data.dll
+C:\Users\aliu2197\Desktop\14号\14号\Code\OrderRoomInfoManagement\bin\Debug\Config.pdb
+C:\Users\aliu2197\Desktop\14号\14号\Code\OrderRoomInfoManagement\bin\Debug\Data.pdb
+C:\Users\aliu2197\Desktop\14号\14号\Code\OrderRoomInfoManagement\obj\Debug\OrderRoomInfoManagement.csprojResolveAssemblyReference.cache
+C:\Users\aliu2197\Desktop\14号\14号\Code\OrderRoomInfoManagement\obj\Debug\HotelManagementSystem.OrderRoomInfoManagement.AddOrderRoomInfoManagement.resources
+C:\Users\aliu2197\Desktop\14号\14号\Code\OrderRoomInfoManagement\obj\Debug\HotelManagementSystem.OrderRoomInfoManagement.ChangeOrderRoomInfoManagement.resources
+C:\Users\aliu2197\Desktop\14号\14号\Code\OrderRoomInfoManagement\obj\Debug\HotelManagementSystem.OrderRoomInfoManagement.SelectOrderRoomInfoManagement.resources
+C:\Users\aliu2197\Desktop\14号\14号\Code\OrderRoomInfoManagement\obj\Debug\OrderRoomInfoManagement.csproj.GenerateResource.Cache
+C:\Users\aliu2197\Desktop\14号\14号\Code\OrderRoomInfoManagement\obj\Debug\OrderRoomInfoManagement.dll
+C:\Users\aliu2197\Desktop\14号\14号\Code\OrderRoomInfoManagement\obj\Debug\OrderRoomInfoManagement.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\OrderRoomInfoManagement\bin\Debug\OrderRoomInfoManagement.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\OrderRoomInfoManagement\bin\Debug\OrderRoomInfoManagement.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\OrderRoomInfoManagement\bin\Debug\Config.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\OrderRoomInfoManagement\bin\Debug\Data.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\OrderRoomInfoManagement\bin\Debug\Config.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\OrderRoomInfoManagement\bin\Debug\Data.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\OrderRoomInfoManagement\obj\Debug\OrderRoomInfoManagement.csprojResolveAssemblyReference.cache
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\OrderRoomInfoManagement\obj\Debug\HotelManagementSystem.OrderRoomInfoManagement.AddOrderRoomInfoManagement.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\OrderRoomInfoManagement\obj\Debug\HotelManagementSystem.OrderRoomInfoManagement.ChangeOrderRoomInfoManagement.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\OrderRoomInfoManagement\obj\Debug\HotelManagementSystem.OrderRoomInfoManagement.SelectOrderRoomInfoManagement.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\OrderRoomInfoManagement\obj\Debug\OrderRoomInfoManagement.csproj.GenerateResource.Cache
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\OrderRoomInfoManagement\obj\Debug\OrderRoomInfoManagement.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\OrderRoomInfoManagement\obj\Debug\OrderRoomInfoManagement.pdb

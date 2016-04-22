@@ -1,0 +1,2 @@
+首先把数据库附加到SQLServer，然后运行Hotel_Setup.msi进行安装即可
+注意：必须先打开SQLServer服务哦

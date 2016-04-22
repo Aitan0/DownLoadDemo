@@ -1,0 +1,28 @@
+C:\Users\aliu2197\Desktop\14号\14号\Code\RoomInfoManagement\bin\Debug\RoomInfoManagement.dll
+C:\Users\aliu2197\Desktop\14号\14号\Code\RoomInfoManagement\bin\Debug\RoomInfoManagement.pdb
+C:\Users\aliu2197\Desktop\14号\14号\Code\RoomInfoManagement\bin\Debug\Config.dll
+C:\Users\aliu2197\Desktop\14号\14号\Code\RoomInfoManagement\bin\Debug\Data.dll
+C:\Users\aliu2197\Desktop\14号\14号\Code\RoomInfoManagement\bin\Debug\Config.pdb
+C:\Users\aliu2197\Desktop\14号\14号\Code\RoomInfoManagement\bin\Debug\Data.pdb
+C:\Users\aliu2197\Desktop\14号\14号\Code\RoomInfoManagement\obj\Debug\RoomInfoManagement.csprojResolveAssemblyReference.cache
+C:\Users\aliu2197\Desktop\14号\14号\Code\RoomInfoManagement\obj\Debug\HotelManagementSystem.RoomInfoManagement.AddRoomInfoManagement.resources
+C:\Users\aliu2197\Desktop\14号\14号\Code\RoomInfoManagement\obj\Debug\HotelManagementSystem.RoomInfoManagement.ChangeRoomInfoManagement.resources
+C:\Users\aliu2197\Desktop\14号\14号\Code\RoomInfoManagement\obj\Debug\HotelManagementSystem.RoomInfoManagement.SelectEmptyRoomManagement.resources
+C:\Users\aliu2197\Desktop\14号\14号\Code\RoomInfoManagement\obj\Debug\HotelManagementSystem.RoomInfoManagement.SelectRoomInfoManagement.resources
+C:\Users\aliu2197\Desktop\14号\14号\Code\RoomInfoManagement\obj\Debug\RoomInfoManagement.csproj.GenerateResource.Cache
+C:\Users\aliu2197\Desktop\14号\14号\Code\RoomInfoManagement\obj\Debug\RoomInfoManagement.dll
+C:\Users\aliu2197\Desktop\14号\14号\Code\RoomInfoManagement\obj\Debug\RoomInfoManagement.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\RoomInfoManagement\bin\Debug\RoomInfoManagement.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\RoomInfoManagement\bin\Debug\RoomInfoManagement.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\RoomInfoManagement\bin\Debug\Config.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\RoomInfoManagement\bin\Debug\Data.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\RoomInfoManagement\bin\Debug\Config.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\RoomInfoManagement\bin\Debug\Data.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\RoomInfoManagement\obj\Debug\RoomInfoManagement.csprojResolveAssemblyReference.cache
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\RoomInfoManagement\obj\Debug\HotelManagementSystem.RoomInfoManagement.AddRoomInfoManagement.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\RoomInfoManagement\obj\Debug\HotelManagementSystem.RoomInfoManagement.ChangeRoomInfoManagement.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\RoomInfoManagement\obj\Debug\HotelManagementSystem.RoomInfoManagement.SelectEmptyRoomManagement.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\RoomInfoManagement\obj\Debug\HotelManagementSystem.RoomInfoManagement.SelectRoomInfoManagement.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\RoomInfoManagement\obj\Debug\RoomInfoManagement.csproj.GenerateResource.Cache
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\RoomInfoManagement\obj\Debug\RoomInfoManagement.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\RoomInfoManagement\obj\Debug\RoomInfoManagement.pdb

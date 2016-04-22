@@ -1,0 +1,33 @@
+E:\Project\DormManage\src\DMS\DMS.DomainObjects\bin\Debug\DMS.DomainObjects.dll
+E:\Project\DormManage\src\DMS\DMS.DomainObjects\bin\Debug\DMS.DomainObjects.pdb
+E:\Project\DormManage\src\DMS\DMS.DomainObjects\bin\Debug\DMS.Common.dll
+E:\Project\DormManage\src\DMS\DMS.DomainObjects\bin\Debug\DMS.ORMappers.dll
+E:\Project\DormManage\src\DMS\DMS.DomainObjects\bin\Debug\DMS.Common.pdb
+E:\Project\DormManage\src\DMS\DMS.DomainObjects\bin\Debug\DMS.ORMappers.pdb
+E:\Project\DormManage\src\DMS\DMS.DomainObjects\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\DormManage\src\DMS\DMS.DomainObjects\obj\Debug\DMS.DomainObjects.dll
+E:\Project\DormManage\src\DMS\DMS.DomainObjects\obj\Debug\DMS.DomainObjects.pdb
+E:\Project\DormManage\src\DMS\DMS.DomainObjects\bin\Debug\DMS.BaseORMappers.dll
+E:\Project\DormManage\src\DMS\DMS.DomainObjects\bin\Debug\DMS.BaseORMappers.pdb
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.DomainObjects\bin\Debug\DMS.DomainObjects.dll
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.DomainObjects\bin\Debug\DMS.DomainObjects.pdb
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.DomainObjects\bin\Debug\DMS.BaseORMappers.dll
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.DomainObjects\bin\Debug\DMS.Common.dll
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.DomainObjects\bin\Debug\DMS.ORMappers.dll
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.DomainObjects\bin\Debug\DMS.BaseORMappers.pdb
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.DomainObjects\bin\Debug\DMS.Common.pdb
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.DomainObjects\bin\Debug\DMS.ORMappers.pdb
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.DomainObjects\obj\Debug\DMS.DomainObjects.csprojResolveAssemblyReference.cache
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.DomainObjects\obj\Debug\DMS.DomainObjects.dll
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.DomainObjects\obj\Debug\DMS.DomainObjects.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.DomainObjects\bin\Debug\DMS.DomainObjects.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.DomainObjects\bin\Debug\DMS.DomainObjects.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.DomainObjects\bin\Debug\DMS.BaseORMappers.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.DomainObjects\bin\Debug\DMS.Common.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.DomainObjects\bin\Debug\DMS.ORMappers.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.DomainObjects\bin\Debug\DMS.BaseORMappers.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.DomainObjects\bin\Debug\DMS.Common.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.DomainObjects\bin\Debug\DMS.ORMappers.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.DomainObjects\obj\Debug\DMS.DomainObjects.csprojResolveAssemblyReference.cache
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.DomainObjects\obj\Debug\DMS.DomainObjects.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.DomainObjects\obj\Debug\DMS.DomainObjects.pdb

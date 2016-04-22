@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWebIE", "MyWebIE\MyWebIE.csproj", "{640BDCB0-EAE2-46B7-9109-97C3F9BFC62D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{640BDCB0-EAE2-46B7-9109-97C3F9BFC62D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{640BDCB0-EAE2-46B7-9109-97C3F9BFC62D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{640BDCB0-EAE2-46B7-9109-97C3F9BFC62D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{640BDCB0-EAE2-46B7-9109-97C3F9BFC62D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

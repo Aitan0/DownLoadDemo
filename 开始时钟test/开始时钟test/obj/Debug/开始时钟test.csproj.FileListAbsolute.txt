@@ -1,0 +1,9 @@
+c:\users\aliu2197\documents\visual studio 2013\Projects\开始时钟test\开始时钟test\bin\Debug\开始时钟test.exe.config
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\开始时钟test\开始时钟test\bin\Debug\开始时钟test.exe
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\开始时钟test\开始时钟test\bin\Debug\开始时钟test.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\开始时钟test\开始时钟test\obj\Debug\开始时钟test.csprojResolveAssemblyReference.cache
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\开始时钟test\开始时钟test\obj\Debug\开始时钟test.Form1.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\开始时钟test\开始时钟test\obj\Debug\开始时钟test.Properties.Resources.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\开始时钟test\开始时钟test\obj\Debug\开始时钟test.csproj.GenerateResource.Cache
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\开始时钟test\开始时钟test\obj\Debug\开始时钟test.exe
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\开始时钟test\开始时钟test\obj\Debug\开始时钟test.pdb

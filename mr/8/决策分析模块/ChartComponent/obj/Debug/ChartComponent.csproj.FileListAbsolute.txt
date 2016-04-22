@@ -1,0 +1,15 @@
+E:\源码\C#程序开发典型模块大全（第二版）\mr\06\ChartComponent\bin\Debug\ChartComponent.dll
+E:\源码\C#程序开发典型模块大全（第二版）\mr\06\ChartComponent\bin\Debug\ChartComponent.pdb
+E:\源码\C#程序开发典型模块大全（第二版）\mr\06\ChartComponent\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#程序开发典型模块大全（第二版）\mr\06\ChartComponent\obj\Debug\ChartComponent.ChartPanel.resources
+E:\源码\C#程序开发典型模块大全（第二版）\mr\06\ChartComponent\obj\Debug\ChartComponent.csproj.GenerateResource.Cache
+E:\源码\C#程序开发典型模块大全（第二版）\mr\06\ChartComponent\obj\Debug\ChartComponent.dll
+E:\源码\C#程序开发典型模块大全（第二版）\mr\06\ChartComponent\obj\Debug\ChartComponent.pdb
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\10\ChartComponent\bin\Debug\ChartComponent.dll
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\10\ChartComponent\bin\Debug\ChartComponent.pdb
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\10\ChartComponent\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\10\ChartComponent\obj\Debug\ChartComponent.ChartPanel.resources
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\10\ChartComponent\obj\Debug\GenerateResource.read.1.tlog
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\10\ChartComponent\obj\Debug\GenerateResource.write.1.tlog
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\10\ChartComponent\obj\Debug\ChartComponent.dll
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\10\ChartComponent\obj\Debug\ChartComponent.pdb

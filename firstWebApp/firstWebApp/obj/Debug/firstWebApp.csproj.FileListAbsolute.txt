@@ -1,0 +1,6 @@
+c:\users\aliu2197\documents\visual studio 2013\Projects\firstWebApp\firstWebApp\bin\firstWebApp.dll.config
+c:\users\aliu2197\documents\visual studio 2013\Projects\firstWebApp\firstWebApp\bin\firstWebApp.dll
+c:\users\aliu2197\documents\visual studio 2013\Projects\firstWebApp\firstWebApp\bin\firstWebApp.pdb
+c:\users\aliu2197\documents\visual studio 2013\Projects\firstWebApp\firstWebApp\obj\Debug\firstWebApp.csprojResolveAssemblyReference.cache
+c:\users\aliu2197\documents\visual studio 2013\Projects\firstWebApp\firstWebApp\obj\Debug\firstWebApp.dll
+c:\users\aliu2197\documents\visual studio 2013\Projects\firstWebApp\firstWebApp\obj\Debug\firstWebApp.pdb

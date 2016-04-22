@@ -1,0 +1,12 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TransferFormality.Properties.Resources.resources
+obj\Debug\TransferFormality.csproj.GenerateResource.Cache
+bin\Debug\TransferFormality.exe
+bin\Debug\TransferFormality.pdb
+bin\Debug\Rendering.dll
+bin\Debug\Rendering.pdb
+obj\Debug\TransferFormality.exe
+obj\Debug\TransferFormality.pdb
+obj\Debug\TransferFormality.MyMain.resources
+bin\Debug\ChartComponent.dll
+bin\Debug\ChartComponent.pdb

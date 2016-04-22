@@ -1,0 +1,15 @@
+F:\源码\C#典型模块\EmailManage\EmailManage\obj\Debug\EmailManage.exe
+F:\源码\C#典型模块\EmailManage\EmailManage\obj\Debug\EmailManage.pdb
+F:\源码\C#典型模块\EmailManage\EmailManage\bin\Debug\EmailManage.exe
+F:\源码\C#典型模块\EmailManage\EmailManage\bin\Debug\EmailManage.pdb
+F:\源码\C#典型模块\EmailManage\EmailManage\bin\Debug\Interop.jmail.dll
+F:\源码\C#典型模块\EmailManage\EmailManage\obj\Debug\ResolveAssemblyReference.cache
+F:\源码\C#典型模块\EmailManage\EmailManage\obj\Debug\Interop.jmail.dll
+F:\源码\C#典型模块\EmailManage\EmailManage\obj\Debug\EmailManage.csproj.ResolveComReference.cache
+F:\源码\C#典型模块\EmailManage\EmailManage\obj\Debug\EmailManage.frmEmailInfo.resources
+F:\源码\C#典型模块\EmailManage\EmailManage\obj\Debug\EmailManage.frmLogin.resources
+F:\源码\C#典型模块\EmailManage\EmailManage\obj\Debug\EmailManage.frmMain.resources
+F:\源码\C#典型模块\EmailManage\EmailManage\obj\Debug\EmailManage.frmSend.resources
+F:\源码\C#典型模块\EmailManage\EmailManage\obj\Debug\EmailManage.frmUserManage.resources
+F:\源码\C#典型模块\EmailManage\EmailManage\obj\Debug\EmailManage.Properties.Resources.resources
+F:\源码\C#典型模块\EmailManage\EmailManage\obj\Debug\EmailManage.csproj.GenerateResource.Cache

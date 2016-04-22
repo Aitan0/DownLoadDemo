@@ -1,0 +1,10 @@
+C:\Users\aliu2197\Desktop\14号\14号\Code\Config\bin\Debug\Config.dll
+C:\Users\aliu2197\Desktop\14号\14号\Code\Config\bin\Debug\Config.pdb
+C:\Users\aliu2197\Desktop\14号\14号\Code\Config\obj\Debug\Config.csprojResolveAssemblyReference.cache
+C:\Users\aliu2197\Desktop\14号\14号\Code\Config\obj\Debug\Config.dll
+C:\Users\aliu2197\Desktop\14号\14号\Code\Config\obj\Debug\Config.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\Config\bin\Debug\Config.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\Config\bin\Debug\Config.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\Config\obj\Debug\Config.csprojResolveAssemblyReference.cache
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\Config\obj\Debug\Config.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\Config\obj\Debug\Config.pdb

@@ -1,0 +1,8 @@
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\ReadHBMclass\bin\Debug\ReadHBMclass.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\ReadHBMclass\obj\Debug\ReadHBMclass.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\ReadHBMclass\obj\Debug\ReadHBMclass.csproj.ResolveComReference.cache
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\ReadHBMclass\obj\Debug\ReadHBMclass.csprojResolveAssemblyReference.cache
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\ReadHBMclass\obj\Debug\ReadHBMclass.HBMtestDemo.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\ReadHBMclass\obj\Debug\ReadHBMclass.csproj.GenerateResource.Cache
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\ReadHBMclass\bin\Debug\ReadHBMclass.exe
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\ReadHBMclass\obj\Debug\ReadHBMclass.exe

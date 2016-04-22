@@ -1,0 +1,236 @@
+F:\源码\C#从基础到项目实战\第28章\houseAgency\houseAgency\obj\Debug\ResolveAssemblyReference.cache
+F:\源码\C#从基础到项目实战\第28章\houseAgency\houseAgency\obj\Debug\houseAgency.frmBargin.resources
+F:\源码\C#从基础到项目实战\第28章\houseAgency\houseAgency\obj\Debug\houseAgency.frmMain.resources
+F:\源码\C#从基础到项目实战\第28章\houseAgency\houseAgency\obj\Debug\houseAgency.frmUserLogin.resources
+F:\源码\C#从基础到项目实战\第28章\houseAgency\houseAgency\obj\Debug\houseAgency.frmFavor.resources
+F:\源码\C#从基础到项目实战\第28章\houseAgency\houseAgency\obj\Debug\houseAgency.frmFitment.resources
+F:\源码\C#从基础到项目实战\第28章\houseAgency\houseAgency\obj\Debug\houseAgency.frmFloor.resources
+F:\源码\C#从基础到项目实战\第28章\houseAgency\houseAgency\obj\Debug\houseAgency.frmMothed.resources
+F:\源码\C#从基础到项目实战\第28章\houseAgency\houseAgency\obj\Debug\houseAgency.frmSeat.resources
+F:\源码\C#从基础到项目实战\第28章\houseAgency\houseAgency\obj\Debug\houseAgency.frmType.resources
+F:\源码\C#从基础到项目实战\第28章\houseAgency\houseAgency\obj\Debug\houseAgency.frmMoneyRemark.resources
+F:\源码\C#从基础到项目实战\第28章\houseAgency\houseAgency\obj\Debug\houseAgency.frmMoney.resources
+F:\源码\C#从基础到项目实战\第28章\houseAgency\houseAgency\obj\Debug\houseAgency.Properties.Resources.resources
+F:\源码\C#从基础到项目实战\第28章\houseAgency\houseAgency\obj\Debug\houseAgency.frmHouse.resources
+F:\源码\C#从基础到项目实战\第28章\houseAgency\houseAgency\obj\Debug\houseAgency.frmIntend.resources
+F:\源码\C#从基础到项目实战\第28章\houseAgency\houseAgency\obj\Debug\houseAgency.frmIntendInfo.resources
+F:\源码\C#从基础到项目实战\第28章\houseAgency\houseAgency\obj\Debug\houseAgency.frmOk.resources
+F:\源码\C#从基础到项目实战\第28章\houseAgency\houseAgency\obj\Debug\houseAgency.frmSelect.resources
+F:\源码\C#从基础到项目实战\第28章\houseAgency\houseAgency\obj\Debug\houseAgency.frmStateHouse.resources
+F:\源码\C#从基础到项目实战\第28章\houseAgency\houseAgency\obj\Debug\houseAgency.frmEmpleeyAll.resources
+F:\源码\C#从基础到项目实战\第28章\houseAgency\houseAgency\obj\Debug\houseAgency.frmEmploeey.resources
+F:\源码\C#从基础到项目实战\第28章\houseAgency\houseAgency\obj\Debug\houseAgency.frmGov.resources
+F:\源码\C#从基础到项目实战\第28章\houseAgency\houseAgency\obj\Debug\houseAgency.frmStudyDegree.resources
+F:\源码\C#从基础到项目实战\第28章\houseAgency\houseAgency\obj\Debug\houseAgency.frmChangYouSelfPwd.resources
+F:\源码\C#从基础到项目实战\第28章\houseAgency\houseAgency\obj\Debug\houseAgency.frmRestore.resources
+F:\源码\C#从基础到项目实战\第28章\houseAgency\houseAgency\obj\Debug\houseAgency.frmStock.resources
+F:\源码\C#从基础到项目实战\第28章\houseAgency\houseAgency\obj\Debug\houseAgency.frmPeopleInfo.resources
+F:\源码\C#从基础到项目实战\第28章\houseAgency\houseAgency\obj\Debug\houseAgency.frmPeopleList.resources
+F:\源码\C#从基础到项目实战\第28章\houseAgency\houseAgency\obj\Debug\houseAgency.csproj.GenerateResource.Cache
+F:\源码\C#从基础到项目实战\第28章\houseAgency\houseAgency\bin\Debug\houseAgency.exe
+F:\源码\C#从基础到项目实战\第28章\houseAgency\houseAgency\bin\Debug\houseAgency.pdb
+F:\源码\C#从基础到项目实战\第28章\houseAgency\houseAgency\obj\Debug\houseAgency.exe
+F:\源码\C#从基础到项目实战\第28章\houseAgency\houseAgency\obj\Debug\houseAgency.pdb
+F:\图书源码\C#项目整合\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.exe
+F:\图书源码\C#项目整合\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.pdb
+F:\图书源码\C#项目整合\房屋中介管理系统\houseAgency\houseAgency\bin\Debug\houseAgency.exe
+F:\图书源码\C#项目整合\房屋中介管理系统\houseAgency\houseAgency\bin\Debug\houseAgency.pdb
+F:\图书源码\C#项目整合\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\ResolveAssemblyReference.cache
+F:\图书源码\C#项目整合\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmBargin.resources
+F:\图书源码\C#项目整合\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmMain.resources
+F:\图书源码\C#项目整合\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmUserLogin.resources
+F:\图书源码\C#项目整合\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmFavor.resources
+F:\图书源码\C#项目整合\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmFitment.resources
+F:\图书源码\C#项目整合\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmFloor.resources
+F:\图书源码\C#项目整合\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmMothed.resources
+F:\图书源码\C#项目整合\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmSeat.resources
+F:\图书源码\C#项目整合\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmType.resources
+F:\图书源码\C#项目整合\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmMoneyRemark.resources
+F:\图书源码\C#项目整合\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmMoney.resources
+F:\图书源码\C#项目整合\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.Properties.Resources.resources
+F:\图书源码\C#项目整合\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmHouse.resources
+F:\图书源码\C#项目整合\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmIntend.resources
+F:\图书源码\C#项目整合\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmIntendInfo.resources
+F:\图书源码\C#项目整合\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmOk.resources
+F:\图书源码\C#项目整合\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmSelect.resources
+F:\图书源码\C#项目整合\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmStateHouse.resources
+F:\图书源码\C#项目整合\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmEmpleeyAll.resources
+F:\图书源码\C#项目整合\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmEmploeey.resources
+F:\图书源码\C#项目整合\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmGov.resources
+F:\图书源码\C#项目整合\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmStudyDegree.resources
+F:\图书源码\C#项目整合\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmChangYouSelfPwd.resources
+F:\图书源码\C#项目整合\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmRestore.resources
+F:\图书源码\C#项目整合\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmStock.resources
+F:\图书源码\C#项目整合\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmPeopleInfo.resources
+F:\图书源码\C#项目整合\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmPeopleList.resources
+F:\图书源码\C#项目整合\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.csproj.GenerateResource.Cache
+F:\图书源码\典型模块与项目大全\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.exe
+F:\图书源码\典型模块与项目大全\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.pdb
+F:\图书源码\典型模块与项目大全\19\房屋中介管理系统\houseAgency\houseAgency\bin\Debug\houseAgency.exe
+F:\图书源码\典型模块与项目大全\19\房屋中介管理系统\houseAgency\houseAgency\bin\Debug\houseAgency.pdb
+F:\图书源码\典型模块与项目大全\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\ResolveAssemblyReference.cache
+F:\图书源码\典型模块与项目大全\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmBargin.resources
+F:\图书源码\典型模块与项目大全\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmMain.resources
+F:\图书源码\典型模块与项目大全\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmUserLogin.resources
+F:\图书源码\典型模块与项目大全\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmFavor.resources
+F:\图书源码\典型模块与项目大全\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmFitment.resources
+F:\图书源码\典型模块与项目大全\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmFloor.resources
+F:\图书源码\典型模块与项目大全\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmMothed.resources
+F:\图书源码\典型模块与项目大全\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmSeat.resources
+F:\图书源码\典型模块与项目大全\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmType.resources
+F:\图书源码\典型模块与项目大全\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmMoneyRemark.resources
+F:\图书源码\典型模块与项目大全\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmMoney.resources
+F:\图书源码\典型模块与项目大全\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.Properties.Resources.resources
+F:\图书源码\典型模块与项目大全\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmHouse.resources
+F:\图书源码\典型模块与项目大全\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmIntend.resources
+F:\图书源码\典型模块与项目大全\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmIntendInfo.resources
+F:\图书源码\典型模块与项目大全\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmOk.resources
+F:\图书源码\典型模块与项目大全\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmSelect.resources
+F:\图书源码\典型模块与项目大全\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmStateHouse.resources
+F:\图书源码\典型模块与项目大全\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmEmpleeyAll.resources
+F:\图书源码\典型模块与项目大全\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmEmploeey.resources
+F:\图书源码\典型模块与项目大全\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmGov.resources
+F:\图书源码\典型模块与项目大全\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmStudyDegree.resources
+F:\图书源码\典型模块与项目大全\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmChangYouSelfPwd.resources
+F:\图书源码\典型模块与项目大全\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmRestore.resources
+F:\图书源码\典型模块与项目大全\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmStock.resources
+F:\图书源码\典型模块与项目大全\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmPeopleInfo.resources
+F:\图书源码\典型模块与项目大全\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmPeopleList.resources
+F:\图书源码\典型模块与项目大全\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.csproj.GenerateResource.Cache
+E:\C#测试\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.exe
+E:\C#测试\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.pdb
+E:\C#测试\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\bin\Debug\houseAgency.exe
+E:\C#测试\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\bin\Debug\houseAgency.pdb
+E:\C#测试\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\ResolveAssemblyReference.cache
+E:\C#测试\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmBargin.resources
+E:\C#测试\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmMain.resources
+E:\C#测试\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmUserLogin.resources
+E:\C#测试\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmFavor.resources
+E:\C#测试\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmFitment.resources
+E:\C#测试\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmFloor.resources
+E:\C#测试\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmMothed.resources
+E:\C#测试\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmSeat.resources
+E:\C#测试\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmType.resources
+E:\C#测试\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmMoneyRemark.resources
+E:\C#测试\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmMoney.resources
+E:\C#测试\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.Properties.Resources.resources
+E:\C#测试\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmHouse.resources
+E:\C#测试\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmIntend.resources
+E:\C#测试\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmIntendInfo.resources
+E:\C#测试\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmOk.resources
+E:\C#测试\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmSelect.resources
+E:\C#测试\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmStateHouse.resources
+E:\C#测试\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmEmpleeyAll.resources
+E:\C#测试\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmEmploeey.resources
+E:\C#测试\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmGov.resources
+E:\C#测试\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmStudyDegree.resources
+E:\C#测试\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmChangYouSelfPwd.resources
+E:\C#测试\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmRestore.resources
+E:\C#测试\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmStock.resources
+E:\C#测试\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmPeopleInfo.resources
+E:\C#测试\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmPeopleList.resources
+E:\C#测试\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.csproj.GenerateResource.Cache
+C:\赵会东(3)\赵会东\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.exe
+C:\赵会东(3)\赵会东\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.pdb
+C:\赵会东(3)\赵会东\19\房屋中介管理系统\houseAgency\houseAgency\bin\Debug\houseAgency.exe
+C:\赵会东(3)\赵会东\19\房屋中介管理系统\houseAgency\houseAgency\bin\Debug\houseAgency.pdb
+C:\赵会东(3)\赵会东\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\ResolveAssemblyReference.cache
+C:\赵会东(3)\赵会东\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmBargin.resources
+C:\赵会东(3)\赵会东\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmMain.resources
+C:\赵会东(3)\赵会东\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmUserLogin.resources
+C:\赵会东(3)\赵会东\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmFavor.resources
+C:\赵会东(3)\赵会东\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmFitment.resources
+C:\赵会东(3)\赵会东\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmFloor.resources
+C:\赵会东(3)\赵会东\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmMothed.resources
+C:\赵会东(3)\赵会东\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmSeat.resources
+C:\赵会东(3)\赵会东\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmType.resources
+C:\赵会东(3)\赵会东\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmMoneyRemark.resources
+C:\赵会东(3)\赵会东\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmMoney.resources
+C:\赵会东(3)\赵会东\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.Properties.Resources.resources
+C:\赵会东(3)\赵会东\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmHouse.resources
+C:\赵会东(3)\赵会东\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmIntend.resources
+C:\赵会东(3)\赵会东\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmIntendInfo.resources
+C:\赵会东(3)\赵会东\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmOk.resources
+C:\赵会东(3)\赵会东\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmSelect.resources
+C:\赵会东(3)\赵会东\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmStateHouse.resources
+C:\赵会东(3)\赵会东\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmEmpleeyAll.resources
+C:\赵会东(3)\赵会东\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmEmploeey.resources
+C:\赵会东(3)\赵会东\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmGov.resources
+C:\赵会东(3)\赵会东\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmStudyDegree.resources
+C:\赵会东(3)\赵会东\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmChangYouSelfPwd.resources
+C:\赵会东(3)\赵会东\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmRestore.resources
+C:\赵会东(3)\赵会东\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmStock.resources
+C:\赵会东(3)\赵会东\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmPeopleInfo.resources
+C:\赵会东(3)\赵会东\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmPeopleList.resources
+C:\赵会东(3)\赵会东\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.csproj.GenerateResource.Cache
+E:\C#测试\C#模块与项目\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.exe
+E:\C#测试\C#模块与项目\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.pdb
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.exe
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.pdb
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\bin\Debug\houseAgency.exe.config
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\bin\Debug\houseAgency.exe
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\bin\Debug\houseAgency.pdb
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmBargin.resources
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmMain.resources
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmUserLogin.resources
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmFavor.resources
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmFitment.resources
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmFloor.resources
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmMothed.resources
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmSeat.resources
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmType.resources
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmMoneyRemark.resources
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmMoney.resources
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.Properties.Resources.resources
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmHouse.resources
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmIntend.resources
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmIntendInfo.resources
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmOk.resources
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmSelect.resources
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmStateHouse.resources
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmEmpleeyAll.resources
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmEmploeey.resources
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmGov.resources
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmStudyDegree.resources
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmChangYouSelfPwd.resources
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmRestore.resources
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmStock.resources
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmPeopleInfo.resources
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmPeopleList.resources
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\GenerateResource.read.1.tlog
+E:\源码\C#典型模块与项目实战大全\C#典型模块与项目实战大全\mr\19\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\16\房屋中介管理系统\houseAgency\houseAgency\bin\Debug\houseAgency.exe.config
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\16\房屋中介管理系统\houseAgency\houseAgency\bin\Debug\houseAgency.exe
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\16\房屋中介管理系统\houseAgency\houseAgency\bin\Debug\houseAgency.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\16\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.csprojResolveAssemblyReference.cache
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\16\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmBargin.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\16\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmMain.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\16\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmUserLogin.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\16\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmFavor.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\16\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmFitment.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\16\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmFloor.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\16\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmMothed.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\16\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmSeat.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\16\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmType.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\16\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmMoneyRemark.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\16\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmMoney.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\16\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.Properties.Resources.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\16\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmHouse.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\16\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmIntend.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\16\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmIntendInfo.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\16\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmOk.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\16\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmSelect.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\16\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmStateHouse.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\16\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmEmpleeyAll.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\16\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmEmploeey.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\16\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmGov.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\16\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmStudyDegree.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\16\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmChangYouSelfPwd.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\16\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmRestore.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\16\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmStock.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\16\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmPeopleInfo.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\16\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.frmPeopleList.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\16\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.csproj.GenerateResource.Cache
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\16\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.exe
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\mr\16\房屋中介管理系统\houseAgency\houseAgency\obj\Debug\houseAgency.pdb

@@ -1,0 +1,26 @@
+C:\Users\aliu2197\Desktop\14号\14号\Code\RoomStardardManagement\bin\Debug\RoomStandardManagement.dll
+C:\Users\aliu2197\Desktop\14号\14号\Code\RoomStardardManagement\bin\Debug\RoomStandardManagement.pdb
+C:\Users\aliu2197\Desktop\14号\14号\Code\RoomStardardManagement\bin\Debug\Config.dll
+C:\Users\aliu2197\Desktop\14号\14号\Code\RoomStardardManagement\bin\Debug\Data.dll
+C:\Users\aliu2197\Desktop\14号\14号\Code\RoomStardardManagement\bin\Debug\Config.pdb
+C:\Users\aliu2197\Desktop\14号\14号\Code\RoomStardardManagement\bin\Debug\Data.pdb
+C:\Users\aliu2197\Desktop\14号\14号\Code\RoomStardardManagement\obj\Debug\RoomStandardManagement.csprojResolveAssemblyReference.cache
+C:\Users\aliu2197\Desktop\14号\14号\Code\RoomStardardManagement\obj\Debug\HotelManagementSystem.RoomStandardManagement.AddRoomStandardManagement.resources
+C:\Users\aliu2197\Desktop\14号\14号\Code\RoomStardardManagement\obj\Debug\HotelManagementSystem.RoomStandardManagement.ChangeRoomStandardManagement.resources
+C:\Users\aliu2197\Desktop\14号\14号\Code\RoomStardardManagement\obj\Debug\HotelManagementSystem.RoomStandardManagement.SelectRoomStandardManagement.resources
+C:\Users\aliu2197\Desktop\14号\14号\Code\RoomStardardManagement\obj\Debug\RoomStandardManagement.csproj.GenerateResource.Cache
+C:\Users\aliu2197\Desktop\14号\14号\Code\RoomStardardManagement\obj\Debug\RoomStandardManagement.dll
+C:\Users\aliu2197\Desktop\14号\14号\Code\RoomStardardManagement\obj\Debug\RoomStandardManagement.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\RoomStardardManagement\bin\Debug\RoomStandardManagement.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\RoomStardardManagement\bin\Debug\RoomStandardManagement.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\RoomStardardManagement\bin\Debug\Config.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\RoomStardardManagement\bin\Debug\Data.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\RoomStardardManagement\bin\Debug\Config.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\RoomStardardManagement\bin\Debug\Data.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\RoomStardardManagement\obj\Debug\RoomStandardManagement.csprojResolveAssemblyReference.cache
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\RoomStardardManagement\obj\Debug\HotelManagementSystem.RoomStandardManagement.AddRoomStandardManagement.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\RoomStardardManagement\obj\Debug\HotelManagementSystem.RoomStandardManagement.ChangeRoomStandardManagement.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\RoomStardardManagement\obj\Debug\HotelManagementSystem.RoomStandardManagement.SelectRoomStandardManagement.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\RoomStardardManagement\obj\Debug\RoomStandardManagement.csproj.GenerateResource.Cache
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\RoomStardardManagement\obj\Debug\RoomStandardManagement.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\RoomStardardManagement\obj\Debug\RoomStandardManagement.pdb

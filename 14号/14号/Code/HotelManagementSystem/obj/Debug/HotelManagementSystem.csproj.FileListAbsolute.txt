@@ -1,0 +1,54 @@
+C:\Users\aliu2197\Desktop\14号\14号\Code\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe
+C:\Users\aliu2197\Desktop\14号\14号\Code\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
+C:\Users\aliu2197\Desktop\14号\14号\Code\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe
+C:\Users\aliu2197\Desktop\14号\14号\Code\HotelManagementSystem\bin\Debug\HotelManagementSystem.pdb
+C:\Users\aliu2197\Desktop\14号\14号\Code\HotelManagementSystem\bin\Debug\AccountInfoManagement.dll
+C:\Users\aliu2197\Desktop\14号\14号\Code\HotelManagementSystem\bin\Debug\Config.dll
+C:\Users\aliu2197\Desktop\14号\14号\Code\HotelManagementSystem\bin\Debug\Data.dll
+C:\Users\aliu2197\Desktop\14号\14号\Code\HotelManagementSystem\bin\Debug\HistoryManagement.dll
+C:\Users\aliu2197\Desktop\14号\14号\Code\HotelManagementSystem\bin\Debug\LiveListManagement.dll
+C:\Users\aliu2197\Desktop\14号\14号\Code\HotelManagementSystem\bin\Debug\OrderRoomInfoManagement.dll
+C:\Users\aliu2197\Desktop\14号\14号\Code\HotelManagementSystem\bin\Debug\RoomInfoManagement.dll
+C:\Users\aliu2197\Desktop\14号\14号\Code\HotelManagementSystem\bin\Debug\RoomStandardManagement.dll
+C:\Users\aliu2197\Desktop\14号\14号\Code\HotelManagementSystem\bin\Debug\SystemManagement.dll
+C:\Users\aliu2197\Desktop\14号\14号\Code\HotelManagementSystem\bin\Debug\AccountInfoManagement.pdb
+C:\Users\aliu2197\Desktop\14号\14号\Code\HotelManagementSystem\bin\Debug\Config.pdb
+C:\Users\aliu2197\Desktop\14号\14号\Code\HotelManagementSystem\bin\Debug\Data.pdb
+C:\Users\aliu2197\Desktop\14号\14号\Code\HotelManagementSystem\bin\Debug\HistoryManagement.pdb
+C:\Users\aliu2197\Desktop\14号\14号\Code\HotelManagementSystem\bin\Debug\LiveListManagement.pdb
+C:\Users\aliu2197\Desktop\14号\14号\Code\HotelManagementSystem\bin\Debug\OrderRoomInfoManagement.pdb
+C:\Users\aliu2197\Desktop\14号\14号\Code\HotelManagementSystem\bin\Debug\RoomInfoManagement.pdb
+C:\Users\aliu2197\Desktop\14号\14号\Code\HotelManagementSystem\bin\Debug\RoomStandardManagement.pdb
+C:\Users\aliu2197\Desktop\14号\14号\Code\HotelManagementSystem\bin\Debug\SystemManagement.pdb
+C:\Users\aliu2197\Desktop\14号\14号\Code\HotelManagementSystem\obj\Debug\HotelManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\aliu2197\Desktop\14号\14号\Code\HotelManagementSystem\obj\Debug\HotelManagementSystem.ChangePassword.resources
+C:\Users\aliu2197\Desktop\14号\14号\Code\HotelManagementSystem\obj\Debug\HotelManagementSystem.Login.resources
+C:\Users\aliu2197\Desktop\14号\14号\Code\HotelManagementSystem\obj\Debug\HotelManagementSystem.MainForm.resources
+C:\Users\aliu2197\Desktop\14号\14号\Code\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.GenerateResource.Cache
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\HotelManagementSystem\bin\Debug\HotelManagementSystem.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\HotelManagementSystem\bin\Debug\AccountInfoManagement.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\HotelManagementSystem\bin\Debug\Config.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\HotelManagementSystem\bin\Debug\Data.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\HotelManagementSystem\bin\Debug\HistoryManagement.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\HotelManagementSystem\bin\Debug\LiveListManagement.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\HotelManagementSystem\bin\Debug\OrderRoomInfoManagement.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\HotelManagementSystem\bin\Debug\RoomInfoManagement.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\HotelManagementSystem\bin\Debug\RoomStandardManagement.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\HotelManagementSystem\bin\Debug\SystemManagement.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\HotelManagementSystem\bin\Debug\AccountInfoManagement.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\HotelManagementSystem\bin\Debug\Config.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\HotelManagementSystem\bin\Debug\Data.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\HotelManagementSystem\bin\Debug\HistoryManagement.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\HotelManagementSystem\bin\Debug\LiveListManagement.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\HotelManagementSystem\bin\Debug\OrderRoomInfoManagement.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\HotelManagementSystem\bin\Debug\RoomInfoManagement.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\HotelManagementSystem\bin\Debug\RoomStandardManagement.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\HotelManagementSystem\bin\Debug\SystemManagement.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\HotelManagementSystem\obj\Debug\HotelManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\HotelManagementSystem\obj\Debug\HotelManagementSystem.ChangePassword.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\HotelManagementSystem\obj\Debug\HotelManagementSystem.Login.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\HotelManagementSystem\obj\Debug\HotelManagementSystem.MainForm.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.GenerateResource.Cache

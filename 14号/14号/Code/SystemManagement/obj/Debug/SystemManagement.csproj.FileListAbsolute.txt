@@ -1,0 +1,26 @@
+C:\Users\aliu2197\Desktop\14号\14号\Code\SystemManagement\bin\Debug\SystemManagement.dll
+C:\Users\aliu2197\Desktop\14号\14号\Code\SystemManagement\bin\Debug\SystemManagement.pdb
+C:\Users\aliu2197\Desktop\14号\14号\Code\SystemManagement\bin\Debug\Config.dll
+C:\Users\aliu2197\Desktop\14号\14号\Code\SystemManagement\bin\Debug\Data.dll
+C:\Users\aliu2197\Desktop\14号\14号\Code\SystemManagement\bin\Debug\Config.pdb
+C:\Users\aliu2197\Desktop\14号\14号\Code\SystemManagement\bin\Debug\Data.pdb
+C:\Users\aliu2197\Desktop\14号\14号\Code\SystemManagement\obj\Debug\HotelManagementSystem.SystemManagement.AddUserManagement.resources
+C:\Users\aliu2197\Desktop\14号\14号\Code\SystemManagement\obj\Debug\HotelManagementSystem.SystemManagement.ChangeUserManagement.resources
+C:\Users\aliu2197\Desktop\14号\14号\Code\SystemManagement\obj\Debug\HotelManagementSystem.SystemManagement.SelectUserManagement.resources
+C:\Users\aliu2197\Desktop\14号\14号\Code\SystemManagement\obj\Debug\SystemManagement.csproj.GenerateResource.Cache
+C:\Users\aliu2197\Desktop\14号\14号\Code\SystemManagement\obj\Debug\SystemManagement.dll
+C:\Users\aliu2197\Desktop\14号\14号\Code\SystemManagement\obj\Debug\SystemManagement.pdb
+C:\Users\aliu2197\Desktop\14号\14号\Code\SystemManagement\obj\Debug\SystemManagement.csprojResolveAssemblyReference.cache
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\SystemManagement\bin\Debug\SystemManagement.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\SystemManagement\bin\Debug\SystemManagement.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\SystemManagement\bin\Debug\Config.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\SystemManagement\bin\Debug\Data.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\SystemManagement\bin\Debug\Config.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\SystemManagement\bin\Debug\Data.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\SystemManagement\obj\Debug\SystemManagement.csprojResolveAssemblyReference.cache
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\SystemManagement\obj\Debug\HotelManagementSystem.SystemManagement.AddUserManagement.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\SystemManagement\obj\Debug\HotelManagementSystem.SystemManagement.ChangeUserManagement.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\SystemManagement\obj\Debug\HotelManagementSystem.SystemManagement.SelectUserManagement.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\SystemManagement\obj\Debug\SystemManagement.csproj.GenerateResource.Cache
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\SystemManagement\obj\Debug\SystemManagement.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\SystemManagement\obj\Debug\SystemManagement.pdb

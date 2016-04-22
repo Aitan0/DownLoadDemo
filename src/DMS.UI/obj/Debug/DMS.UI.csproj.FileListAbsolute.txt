@@ -1,0 +1,126 @@
+E:\Project\DormManage\src\DMS\DMS.UI\bin\Debug\DMS.UI.pdb
+E:\Project\DormManage\src\DMS\DMS.UI\bin\Debug\DMS.Common.dll
+E:\Project\DormManage\src\DMS\DMS.UI\bin\Debug\DMS.DomainObjects.dll
+E:\Project\DormManage\src\DMS\DMS.UI\bin\Debug\DMS.Common.pdb
+E:\Project\DormManage\src\DMS\DMS.UI\bin\Debug\DMS.DomainObjects.pdb
+E:\Project\DormManage\src\DMS\DMS.UI\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\DormManage\src\DMS\DMS.UI\obj\Debug\DMS.UI.Properties.Resources.resources
+E:\Project\DormManage\src\DMS\DMS.UI\obj\Debug\DMS.UI.csproj.GenerateResource.Cache
+E:\Project\DormManage\src\DMS\DMS.UI\obj\Debug\DMS.UI.pdb
+E:\Project\DormManage\src\DMS\DMS.UI\bin\Debug\DMS.UI.dll
+E:\Project\DormManage\src\DMS\DMS.UI\obj\Debug\DMS.UI.dll
+E:\Project\DormManage\src\DMS\DMS.UI\bin\Debug\DMS.BaseORMappers.dll
+E:\Project\DormManage\src\DMS\DMS.UI\bin\Debug\DMS.ORMappers.dll
+E:\Project\DormManage\src\DMS\DMS.UI\bin\Debug\DMS.BaseORMappers.pdb
+E:\Project\DormManage\src\DMS\DMS.UI\bin\Debug\DMS.ORMappers.pdb
+E:\Project\DormManage\src\DMS\DMS.UI\obj\Debug\DMS.UI.SystemManage.LoginForm.resources
+E:\Project\DormManage\src\DMS\DMS.UI\obj\Debug\DMS.UI.MainForm.resources
+E:\Project\DormManage\src\DMS\DMS.UI\obj\Debug\DMS.UI.SystemManage.UserForm.resources
+E:\Project\DormManage\src\DMS\DMS.UI\obj\Debug\DMS.UI.Common.ListForm.resources
+E:\Project\DormManage\src\DMS\DMS.UI\obj\Debug\DMS.UI.SystemManage.UserManage.UserMainForm.resources
+E:\Project\DormManage\src\DMS\DMS.UI\obj\Debug\DMS.UI.SystemManage.UserManage.UserFormBase.resources
+E:\Project\DormManage\src\DMS\DMS.UI\obj\Debug\DMS.UI.SystemManage.UserManage.AddUserForm.resources
+E:\Project\DormManage\src\DMS\DMS.UI\obj\Debug\DMS.UI.SystemManage.UserManage.EditUserForm.resources
+E:\Project\DormManage\src\DMS\DMS.UI\obj\Debug\DMS.UI.Common.DetailForm.resources
+E:\Project\DormManage\src\DMS\DMS.UI\obj\Debug\DMS.UI.SystemManage.ModuleManage.ModuleFormBase.resources
+E:\Project\DormManage\src\DMS\DMS.UI\obj\Debug\DMS.UI.SystemManage.ModuleManage.AddModuleForm.resources
+E:\Project\DormManage\src\DMS\DMS.UI\obj\Debug\DMS.UI.SystemManage.ModuleManage.EditModuleForm.resources
+E:\Project\DormManage\src\DMS\DMS.UI\obj\Debug\DMS.UI.SystemManage.ModuleManage.ViewModuleForm.resources
+E:\Project\DormManage\src\DMS\DMS.UI\obj\Debug\DMS.UI.SystemManage.ModuleManage.ModuleMainForm.resources
+E:\Project\DormManage\src\DMS\DMS.UI\obj\Debug\DMS.UI.SystemManage.RoleManage.RoleFormBase.resources
+E:\Project\DormManage\src\DMS\DMS.UI\obj\Debug\DMS.UI.SystemManage.RoleManage.AddRoleForm.resources
+E:\Project\DormManage\src\DMS\DMS.UI\obj\Debug\DMS.UI.SystemManage.RoleManage.EditRoleForm.resources
+E:\Project\DormManage\src\DMS\DMS.UI\obj\Debug\DMS.UI.SystemManage.RoleManage.ViewRoleForm.resources
+E:\Project\DormManage\src\DMS\DMS.UI\obj\Debug\DMS.UI.SystemManage.EditionManage.EditionFormBase.resources
+E:\Project\DormManage\src\DMS\DMS.UI\obj\Debug\DMS.UI.SystemManage.EditionManage.EditionMainForm.resources
+E:\Project\DormManage\src\DMS\DMS.UI\obj\Debug\DMS.UI.SystemManage.EditionManage.AddEditionForm.resources
+E:\Project\DormManage\src\DMS\DMS.UI\obj\Debug\DMS.UI.SystemManage.EditionManage.EditEditionForm.resources
+E:\Project\DormManage\src\DMS\DMS.UI\obj\Debug\DMS.UI.SystemManage.EditionManage.ViewEditionForm.resources
+E:\Project\DormManage\src\DMS\DMS.UI\obj\Debug\DMS.UI.SystemManage.DictionaryManage.DictionaryFormBase.resources
+E:\Project\DormManage\src\DMS\DMS.UI\obj\Debug\DMS.UI.SystemManage.DictionaryManage.AddDictionaryForm.resources
+E:\Project\DormManage\src\DMS\DMS.UI\obj\Debug\DMS.UI.SystemManage.DictionaryManage.EditDictionaryForm.resources
+E:\Project\DormManage\src\DMS\DMS.UI\obj\Debug\DMS.UI.SystemManage.DictionaryManage.ViewDictionaryForm.resources
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.UI\bin\Debug\DMS.UI.dll
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.UI\bin\Debug\DMS.UI.pdb
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.UI\bin\Debug\DMS.Common.dll
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.UI\bin\Debug\DMS.DomainObjects.dll
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.UI\bin\Debug\DMS.ORMappers.dll
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.UI\bin\Debug\DMS.BaseORMappers.dll
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.UI\bin\Debug\DMS.Common.pdb
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.UI\bin\Debug\DMS.DomainObjects.pdb
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.UI\bin\Debug\DMS.ORMappers.pdb
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.UI\bin\Debug\DMS.BaseORMappers.pdb
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.UI\obj\Debug\DMS.UI.csprojResolveAssemblyReference.cache
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.UI\obj\Debug\DMS.UI.Common.DetailForm.resources
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.UI\obj\Debug\DMS.UI.Common.ListForm.resources
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.UI\obj\Debug\DMS.UI.MainForm.resources
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.UI\obj\Debug\DMS.UI.Properties.Resources.resources
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.DictionaryManage.AddDictionaryForm.resources
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.DictionaryManage.DictionaryFormBase.resources
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.DictionaryManage.EditDictionaryForm.resources
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.DictionaryManage.ViewDictionaryForm.resources
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.EditionManage.AddEditionForm.resources
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.EditionManage.EditEditionForm.resources
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.EditionManage.EditionFormBase.resources
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.EditionManage.EditionMainForm.resources
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.EditionManage.ViewEditionForm.resources
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.LoginForm.resources
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.ModuleManage.AddModuleForm.resources
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.ModuleManage.EditModuleForm.resources
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.ModuleManage.ModuleFormBase.resources
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.ModuleManage.ModuleMainForm.resources
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.ModuleManage.ViewModuleForm.resources
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.RoleManage.AddRoleForm.resources
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.RoleManage.EditRoleForm.resources
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.RoleManage.RoleFormBase.resources
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.RoleManage.ViewRoleForm.resources
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.UserForm.resources
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.UserManage.AddUserForm.resources
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.UserManage.EditUserForm.resources
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.UserManage.UserFormBase.resources
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.UserManage.UserMainForm.resources
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.UI\obj\Debug\DMS.UI.csproj.GenerateResource.Cache
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.UI\obj\Debug\DMS.UI.dll
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.UI\obj\Debug\DMS.UI.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.UI\bin\Debug\DMS.UI.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.UI\bin\Debug\DMS.UI.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.UI\bin\Debug\DMS.Common.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.UI\bin\Debug\DMS.DomainObjects.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.UI\bin\Debug\DMS.ORMappers.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.UI\bin\Debug\DMS.BaseORMappers.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.UI\bin\Debug\DMS.Common.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.UI\bin\Debug\DMS.DomainObjects.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.UI\bin\Debug\DMS.ORMappers.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.UI\bin\Debug\DMS.BaseORMappers.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.UI\obj\Debug\DMS.UI.csprojResolveAssemblyReference.cache
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.UI\obj\Debug\DMS.UI.Common.DetailForm.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.UI\obj\Debug\DMS.UI.Common.ListForm.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.UI\obj\Debug\DMS.UI.MainForm.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.UI\obj\Debug\DMS.UI.Properties.Resources.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.DictionaryManage.AddDictionaryForm.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.DictionaryManage.DictionaryFormBase.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.DictionaryManage.EditDictionaryForm.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.DictionaryManage.ViewDictionaryForm.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.EditionManage.AddEditionForm.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.EditionManage.EditEditionForm.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.EditionManage.EditionFormBase.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.EditionManage.EditionMainForm.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.EditionManage.ViewEditionForm.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.LoginForm.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.ModuleManage.AddModuleForm.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.ModuleManage.EditModuleForm.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.ModuleManage.ModuleFormBase.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.ModuleManage.ModuleMainForm.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.ModuleManage.ViewModuleForm.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.RoleManage.AddRoleForm.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.RoleManage.EditRoleForm.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.RoleManage.RoleFormBase.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.RoleManage.ViewRoleForm.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.UserForm.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.UserManage.AddUserForm.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.UserManage.EditUserForm.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.UserManage.UserFormBase.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.UI\obj\Debug\DMS.UI.SystemManage.UserManage.UserMainForm.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.UI\obj\Debug\DMS.UI.csproj.GenerateResource.Cache
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.UI\obj\Debug\DMS.UI.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.UI\obj\Debug\DMS.UI.pdb

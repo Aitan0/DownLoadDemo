@@ -1,0 +1,14 @@
+D:\程序测试\PictureManage\PictureManage\obj\Debug\PictureManage.exe
+D:\程序测试\PictureManage\PictureManage\obj\Debug\PictureManage.pdb
+D:\程序测试\PictureManage\PictureManage\bin\Debug\PictureManage.exe
+D:\程序测试\PictureManage\PictureManage\bin\Debug\PictureManage.pdb
+D:\程序测试\PictureManage\PictureManage\obj\Debug\ResolveAssemblyReference.cache
+D:\程序测试\PictureManage\PictureManage\obj\Debug\PictureManage.frmMain.resources
+D:\程序测试\PictureManage\PictureManage\obj\Debug\PictureManage.frmPictureMax.resources
+D:\程序测试\PictureManage\PictureManage\obj\Debug\PictureManage.frmRename.resources
+D:\程序测试\PictureManage\PictureManage\obj\Debug\PictureManage.Properties.Resources.resources
+D:\程序测试\PictureManage\PictureManage\obj\Debug\PictureManage.csproj.GenerateResource.Cache
+D:\程序测试\PictureManage\PictureManage\obj\Debug\PictureManage.frmSlide.resources
+D:\程序测试\PictureManage\PictureManage\obj\Debug\PictureManage.frmPicAdjust.resources
+D:\程序测试\PictureManage\PictureManage\obj\Debug\PictureManage.frmSpecialEfficacy.resources
+D:\程序测试\PictureManage\PictureManage\obj\Debug\PictureManage.frmWater.resources

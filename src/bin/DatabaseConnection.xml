@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<providers>
+  <provider name="DefaultProvider">
+    <assembly>DMS.BaseORMappers</assembly>
+    <clazz>DMS.BaseORMappers.Clients.AccessProvider</clazz>
+    <connString>Provider=Microsoft.Jet.OLEDB.4.0;Data Source=dmsDatabase.mdb;User Id=;Password=;</connString>
+  </provider>
+</providers>

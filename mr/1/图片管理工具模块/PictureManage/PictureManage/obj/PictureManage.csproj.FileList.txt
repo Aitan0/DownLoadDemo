@@ -1,0 +1,14 @@
+bin\Debug\PictureManage.exe
+bin\Debug\PictureManage.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PictureManage.Properties.Resources.resources
+obj\Debug\PictureManage.csproj.GenerateResource.Cache
+obj\Debug\PictureManage.exe
+obj\Debug\PictureManage.pdb
+obj\Debug\PictureManage.frmMain.resources
+obj\Debug\PictureManage.frmPictureMax.resources
+obj\Debug\PictureManage.frmRename.resources
+obj\Debug\PictureManage.frmPicAdjust.resources
+obj\Debug\PictureManage.frmSlide.resources
+obj\Debug\PictureManage.frmSpecialEfficacy.resources
+obj\Debug\PictureManage.frmWater.resources

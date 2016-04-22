@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B48012A0-83A7-4186-A17C-76F906BFA02A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MagicCony</RootNamespace>
+    <AssemblyName>MagicCony</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmCheck.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCheck.Designer.cs">
+      <DependentUpon>frmCheck.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCony.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCony.Designer.cs">
+      <DependentUpon>frmCony.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCloseWindows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCloseWindows.Designer.cs">
+      <DependentUpon>frmCloseWindows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSetPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSetPassword.Designer.cs">
+      <DependentUpon>frmSetPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSystemCheck.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSystemCheck.Designer.cs">
+      <DependentUpon>frmSystemCheck.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSystemOptimize.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSystemOptimize.Designer.cs">
+      <DependentUpon>frmSystemOptimize.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmCheck.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmCheck.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCony.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmCony.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCloseWindows.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmCloseWindows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSetPassword.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmSetPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSystemCheck.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmSystemCheck.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSystemOptimize.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmSystemOptimize.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="PublicClass.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ConyData.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HTMLPage1.htm" />
+    <Content Include="Images\00.jpg" />
+    <Content Include="Images\a1_03.jpg" />
+    <Content Include="Images\anniu.jpg" />
+    <Content Include="Images\bg.png" />
+    <Content Include="Images\chongqi.ico" />
+    <Content Include="Images\close.png" />
+    <Content Include="Images\delete_06.gif" />
+    <Content Include="Images\gb.png" />
+    <Content Include="Images\logo-80px.gif" />
+    <Content Include="Images\mima.ico" />
+    <Content Include="Images\renwu.ico" />
+    <Content Include="Images\roll_voer_54.png" />
+    <Content Include="Images\shutdown.jpg" />
+    <Content Include="Images\title_bg_quit.gif" />
+    <Content Include="Images\up_56.png" />
+    <Content Include="Images\up_60.png" />
+    <Content Include="Images\zx.png" />
+    <Content Include="Images\发送到菜单1_03.jpg" />
+    <Content Include="Images\发送到菜单2_07.jpg" />
+    <Content Include="Images\发送到菜单3_10.jpg" />
+    <Content Include="Images\发送到菜单56_10.jpg" />
+    <Content Include="Images\图标 %285%29.PNG" />
+    <Content Include="Images\图标 %2857%29.ico" />
+    <Content Include="Images\图标 %2858%29.ico" />
+    <Content Include="Images\系统优化bg_06.jpg" />
+    <Content Include="Images\系统优化tou_03.jpg" />
+    <Content Include="Images\系统优化_07.jpg" />
+    <Content Include="Images\系统优化_09.jpg" />
+    <Content Include="Images\系统优化_11.jpg" />
+    <Content Include="Images\系统优化_13.jpg" />
+    <Content Include="Images\系统检测bg_06.jpg" />
+    <Content Include="Images\系统检测tc_07.jpg" />
+    <Content Include="Images\系统检测_03.jpg" />
+    <Content Include="Images\背景_03.jpg" />
+    <Content Include="Images\魔法兔子主界面_03.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="IWshRuntimeLibrary">
+      <Guid>{F935DC20-1CF0-11D0-ADB9-00C04FD58A0B}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

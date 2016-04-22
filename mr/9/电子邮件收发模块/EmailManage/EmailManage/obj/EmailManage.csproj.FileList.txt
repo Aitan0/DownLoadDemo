@@ -1,0 +1,15 @@
+bin\Debug\EmailManage.exe
+bin\Debug\EmailManage.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\EmailManage.frmLogin.resources
+obj\Debug\EmailManage.frmMain.resources
+obj\Debug\EmailManage.frmSend.resources
+obj\Debug\EmailManage.frmUserManage.resources
+obj\Debug\EmailManage.Properties.Resources.resources
+obj\Debug\EmailManage.csproj.GenerateResource.Cache
+obj\Debug\EmailManage.exe
+obj\Debug\EmailManage.pdb
+obj\Debug\Interop.jmail.dll
+obj\Debug\EmailManage.csproj.ResolveComReference.cache
+bin\Debug\Interop.jmail.dll
+obj\Debug\EmailManage.frmEmailInfo.resources

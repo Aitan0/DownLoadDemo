@@ -1,0 +1,450 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E47FA70A-C77D-4DF5-A623-CD4510B00DE2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>houseAgency</RootNamespace>
+    <AssemblyName>houseAgency</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BusinessM\frmBargin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BusinessM\frmBargin.designer.cs">
+      <DependentUpon>frmBargin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUserLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUserLogin.designer.cs">
+      <DependentUpon>frmUserLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mothedCls\claFavorMethod.cs" />
+    <Compile Include="mothedCls\ClsCon.cs" />
+    <Compile Include="mothedCls\clsEmpleey.cs" />
+    <Compile Include="mothedCls\clsEmpleeyMethed.cs" />
+    <Compile Include="mothedCls\clsFavor.cs" />
+    <Compile Include="mothedCls\clsFitment.cs" />
+    <Compile Include="mothedCls\clsFitmentMethod.cs" />
+    <Compile Include="mothedCls\clsFloor.cs" />
+    <Compile Include="mothedCls\clsFloorMethod.cs" />
+    <Compile Include="mothedCls\clsgov.cs" />
+    <Compile Include="mothedCls\clsgovMethod.cs" />
+    <Compile Include="mothedCls\ClsHouse.cs" />
+    <Compile Include="mothedCls\ClsHouseMethed.cs" />
+    <Compile Include="mothedCls\clsIntend.cs" />
+    <Compile Include="mothedCls\clsIntendMethed.cs" />
+    <Compile Include="mothedCls\clsLogin.cs" />
+    <Compile Include="mothedCls\clsLoginMethed.cs" />
+    <Compile Include="mothedCls\clsMD5Encrypt.cs" />
+    <Compile Include="mothedCls\clsMethed.cs" />
+    <Compile Include="mothedCls\clsMethedMethod.cs" />
+    <Compile Include="mothedCls\clsMoneyAndInfo.cs" />
+    <Compile Include="mothedCls\clsMoneyAndInfoMethod.cs" />
+    <Compile Include="mothedCls\clsSeat.cs" />
+    <Compile Include="mothedCls\clsSeatMethod.cs" />
+    <Compile Include="mothedCls\clsStudyDegree.cs" />
+    <Compile Include="mothedCls\clsStudyDegreeMethod.cs" />
+    <Compile Include="mothedCls\clstype.cs" />
+    <Compile Include="mothedCls\clstypeMethod.cs" />
+    <Compile Include="mothedCls\clsUser.cs" />
+    <Compile Include="mothedCls\clsUserMethod.cs" />
+    <Compile Include="OutTenants\frmFavor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OutTenants\frmFavor.designer.cs">
+      <DependentUpon>frmFavor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OutTenants\frmFitment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OutTenants\frmFitment.designer.cs">
+      <DependentUpon>frmFitment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OutTenants\frmFloor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OutTenants\frmFloor.designer.cs">
+      <DependentUpon>frmFloor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OutTenants\frmMothed.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OutTenants\frmMothed.designer.cs">
+      <DependentUpon>frmMothed.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OutTenants\frmSeat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OutTenants\frmSeat.designer.cs">
+      <DependentUpon>frmSeat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OutTenants\frmType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OutTenants\frmType.designer.cs">
+      <DependentUpon>frmType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PayingM\frmBackMoney.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PayingM\frmBackMoney.designer.cs">
+      <DependentUpon>frmBackMoney.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PayingM\frmMoney.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PayingM\frmMoney.designer.cs">
+      <DependentUpon>frmMoney.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="BusinessM\frmBargin.resx">
+      <DependentUpon>frmBargin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUserLogin.resx">
+      <DependentUpon>frmUserLogin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OutTenants\frmFavor.resx">
+      <DependentUpon>frmFavor.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OutTenants\frmFitment.resx">
+      <DependentUpon>frmFitment.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OutTenants\frmFloor.resx">
+      <DependentUpon>frmFloor.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OutTenants\frmMothed.resx">
+      <DependentUpon>frmMothed.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OutTenants\frmSeat.resx">
+      <DependentUpon>frmSeat.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OutTenants\frmType.resx">
+      <DependentUpon>frmType.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PayingM\frmBackMoney.resx">
+      <DependentUpon>frmBackMoney.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PayingM\frmMoney.resx">
+      <DependentUpon>frmMoney.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeekTenantsM\frmHouse.resx">
+      <DependentUpon>frmHouse.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeekTenantsM\frmIntend.resx">
+      <DependentUpon>frmIntend.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeekTenantsM\frmIntendInfo.resx">
+      <DependentUpon>frmIntendInfo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeekTenantsM\frmOk.resx">
+      <DependentUpon>frmOk.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeekTenantsM\frmSelect.resx">
+      <DependentUpon>frmSelect.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeekTenantsM\frmStateHouse.resx">
+      <DependentUpon>frmStateHouse.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffInfor\frmEmpleeyAll.resx">
+      <DependentUpon>frmEmpleeyAll.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffInfor\frmEmploeey.resx">
+      <DependentUpon>frmEmploeey.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffInfor\frmGov.resx">
+      <DependentUpon>frmGov.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffInfor\frmStudyDegree.resx">
+      <DependentUpon>frmStudyDegree.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemM\frmChangYouSelfPwd.resx">
+      <DependentUpon>frmChangYouSelfPwd.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemM\frmRestore.resx">
+      <DependentUpon>frmRestore.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemM\frmStock.resx">
+      <DependentUpon>frmStock.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserInfor\frmPeopleInfo.resx">
+      <DependentUpon>frmPeopleInfo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserInfor\frmPeopleList.resx">
+      <DependentUpon>frmPeopleList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="SeekTenantsM\frmHouse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SeekTenantsM\frmHouse.designer.cs">
+      <DependentUpon>frmHouse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SeekTenantsM\frmIntend.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SeekTenantsM\frmIntend.designer.cs">
+      <DependentUpon>frmIntend.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SeekTenantsM\frmIntendInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SeekTenantsM\frmIntendInfo.designer.cs">
+      <DependentUpon>frmIntendInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SeekTenantsM\frmOk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SeekTenantsM\frmOk.designer.cs">
+      <DependentUpon>frmOk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SeekTenantsM\frmSelect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SeekTenantsM\frmSelect.designer.cs">
+      <DependentUpon>frmSelect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SeekTenantsM\frmStateHouse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SeekTenantsM\frmStateHouse.designer.cs">
+      <DependentUpon>frmStateHouse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StaffInfor\frmEmpleeyAll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffInfor\frmEmpleeyAll.designer.cs">
+      <DependentUpon>frmEmpleeyAll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StaffInfor\frmEmploeey.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffInfor\frmEmploeey.designer.cs">
+      <DependentUpon>frmEmploeey.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StaffInfor\frmGov.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffInfor\frmGov.designer.cs">
+      <DependentUpon>frmGov.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StaffInfor\frmStudyDegree.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffInfor\frmStudyDegree.designer.cs">
+      <DependentUpon>frmStudyDegree.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemM\frmChangYouSelfPwd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemM\frmChangYouSelfPwd.designer.cs">
+      <DependentUpon>frmChangYouSelfPwd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemM\frmRestore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemM\frmRestore.designer.cs">
+      <DependentUpon>frmRestore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemM\frmStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemM\frmStock.designer.cs">
+      <DependentUpon>frmStock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserInfor\frmPeopleInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserInfor\frmPeopleInfo.designer.cs">
+      <DependentUpon>frmPeopleInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserInfor\frmPeopleList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserInfor\frmPeopleList.designer.cs">
+      <DependentUpon>frmPeopleList.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\dl.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\操作.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\查询.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\删除.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\修改.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\增加.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\成交量.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\出租人员信息.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\房源查询.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\求租人信息.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\收费记录.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Database\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

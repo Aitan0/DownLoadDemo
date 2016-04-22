@@ -1,0 +1,24 @@
+C:\Users\aliu2197\Desktop\14号\14号\Code\LiveListManagement\bin\Debug\LiveListManagement.dll
+C:\Users\aliu2197\Desktop\14号\14号\Code\LiveListManagement\bin\Debug\LiveListManagement.pdb
+C:\Users\aliu2197\Desktop\14号\14号\Code\LiveListManagement\bin\Debug\Config.dll
+C:\Users\aliu2197\Desktop\14号\14号\Code\LiveListManagement\bin\Debug\Data.dll
+C:\Users\aliu2197\Desktop\14号\14号\Code\LiveListManagement\bin\Debug\Config.pdb
+C:\Users\aliu2197\Desktop\14号\14号\Code\LiveListManagement\bin\Debug\Data.pdb
+C:\Users\aliu2197\Desktop\14号\14号\Code\LiveListManagement\obj\Debug\HotelManagementSystem.LiveListManagement.AddLiveListManagement.resources
+C:\Users\aliu2197\Desktop\14号\14号\Code\LiveListManagement\obj\Debug\HotelManagementSystem.LiveListManagement.SelectAndChangeLiveListManagement.resources
+C:\Users\aliu2197\Desktop\14号\14号\Code\LiveListManagement\obj\Debug\LiveListManagement.csproj.GenerateResource.Cache
+C:\Users\aliu2197\Desktop\14号\14号\Code\LiveListManagement\obj\Debug\LiveListManagement.dll
+C:\Users\aliu2197\Desktop\14号\14号\Code\LiveListManagement\obj\Debug\LiveListManagement.pdb
+C:\Users\aliu2197\Desktop\14号\14号\Code\LiveListManagement\obj\Debug\LiveListManagement.csprojResolveAssemblyReference.cache
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\LiveListManagement\bin\Debug\LiveListManagement.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\LiveListManagement\bin\Debug\LiveListManagement.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\LiveListManagement\bin\Debug\Config.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\LiveListManagement\bin\Debug\Data.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\LiveListManagement\bin\Debug\Config.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\LiveListManagement\bin\Debug\Data.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\LiveListManagement\obj\Debug\LiveListManagement.csprojResolveAssemblyReference.cache
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\LiveListManagement\obj\Debug\HotelManagementSystem.LiveListManagement.AddLiveListManagement.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\LiveListManagement\obj\Debug\HotelManagementSystem.LiveListManagement.SelectAndChangeLiveListManagement.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\LiveListManagement\obj\Debug\LiveListManagement.csproj.GenerateResource.Cache
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\LiveListManagement\obj\Debug\LiveListManagement.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\14号\14号\Code\LiveListManagement\obj\Debug\LiveListManagement.pdb

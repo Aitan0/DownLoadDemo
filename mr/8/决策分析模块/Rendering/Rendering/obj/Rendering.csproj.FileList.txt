@@ -1,0 +1,12 @@
+bin\Debug\Rendering.dll
+bin\Debug\Rendering.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Rendering.Frm_Stat.resources
+obj\Debug\Rendering.csproj.GenerateResource.Cache
+obj\Debug\Rendering.dll
+obj\Debug\Rendering.pdb
+obj\Debug\Rendering.Properties.Resources.resources
+obj\Debug\Rendering.Frm_Appear.resources
+obj\Debug\Rendering.Frm_Statistics.resources
+bin\Debug\ChartComponent.dll
+bin\Debug\ChartComponent.pdb

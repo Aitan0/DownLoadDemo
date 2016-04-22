@@ -1,0 +1,27 @@
+E:\Project\DormManage\src\DMS\DMS.ORMappers\bin\Debug\DMS.ORMappers.dll
+E:\Project\DormManage\src\DMS\DMS.ORMappers\bin\Debug\DMS.ORMappers.pdb
+E:\Project\DormManage\src\DMS\DMS.ORMappers\bin\Debug\DMS.Common.dll
+E:\Project\DormManage\src\DMS\DMS.ORMappers\bin\Debug\DMS.Common.pdb
+E:\Project\DormManage\src\DMS\DMS.ORMappers\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\DormManage\src\DMS\DMS.ORMappers\obj\Debug\DMS.ORMappers.dll
+E:\Project\DormManage\src\DMS\DMS.ORMappers\obj\Debug\DMS.ORMappers.pdb
+E:\Project\DormManage\src\DMS\DMS.ORMappers\bin\Debug\DMS.BaseORMappers.dll
+E:\Project\DormManage\src\DMS\DMS.ORMappers\bin\Debug\DMS.BaseORMappers.pdb
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.ORMappers\bin\Debug\DMS.ORMappers.dll
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.ORMappers\bin\Debug\DMS.ORMappers.pdb
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.ORMappers\bin\Debug\DMS.BaseORMappers.dll
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.ORMappers\bin\Debug\DMS.Common.dll
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.ORMappers\bin\Debug\DMS.BaseORMappers.pdb
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.ORMappers\bin\Debug\DMS.Common.pdb
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.ORMappers\obj\Debug\DMS.ORMappers.csprojResolveAssemblyReference.cache
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.ORMappers\obj\Debug\DMS.ORMappers.dll
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS.ORMappers\obj\Debug\DMS.ORMappers.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.ORMappers\bin\Debug\DMS.ORMappers.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.ORMappers\bin\Debug\DMS.ORMappers.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.ORMappers\bin\Debug\DMS.BaseORMappers.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.ORMappers\bin\Debug\DMS.Common.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.ORMappers\bin\Debug\DMS.BaseORMappers.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.ORMappers\bin\Debug\DMS.Common.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.ORMappers\obj\Debug\DMS.ORMappers.csprojResolveAssemblyReference.cache
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.ORMappers\obj\Debug\DMS.ORMappers.dll
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS.ORMappers\obj\Debug\DMS.ORMappers.pdb

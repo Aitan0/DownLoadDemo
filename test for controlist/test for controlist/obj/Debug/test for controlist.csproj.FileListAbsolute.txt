@@ -1,0 +1,9 @@
+c:\users\aliu2197\documents\visual studio 2013\Projects\test for controlist\test for controlist\bin\Debug\test for controlist.exe.config
+c:\users\aliu2197\documents\visual studio 2013\Projects\test for controlist\test for controlist\bin\Debug\test for controlist.exe
+c:\users\aliu2197\documents\visual studio 2013\Projects\test for controlist\test for controlist\bin\Debug\test for controlist.pdb
+c:\users\aliu2197\documents\visual studio 2013\Projects\test for controlist\test for controlist\obj\Debug\test for controlist.csprojResolveAssemblyReference.cache
+c:\users\aliu2197\documents\visual studio 2013\Projects\test for controlist\test for controlist\obj\Debug\test_for_controlist.Form1.resources
+c:\users\aliu2197\documents\visual studio 2013\Projects\test for controlist\test for controlist\obj\Debug\test_for_controlist.Properties.Resources.resources
+c:\users\aliu2197\documents\visual studio 2013\Projects\test for controlist\test for controlist\obj\Debug\test for controlist.csproj.GenerateResource.Cache
+c:\users\aliu2197\documents\visual studio 2013\Projects\test for controlist\test for controlist\obj\Debug\test for controlist.exe
+c:\users\aliu2197\documents\visual studio 2013\Projects\test for controlist\test for controlist\obj\Debug\test for controlist.pdb

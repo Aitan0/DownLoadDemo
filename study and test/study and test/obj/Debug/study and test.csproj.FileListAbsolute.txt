@@ -1,0 +1,9 @@
+c:\users\aliu2197\documents\visual studio 2013\Projects\study and test\study and test\bin\Debug\study and test.exe.config
+c:\users\aliu2197\documents\visual studio 2013\Projects\study and test\study and test\bin\Debug\study and test.exe
+c:\users\aliu2197\documents\visual studio 2013\Projects\study and test\study and test\bin\Debug\study and test.pdb
+c:\users\aliu2197\documents\visual studio 2013\Projects\study and test\study and test\obj\Debug\study and test.csprojResolveAssemblyReference.cache
+c:\users\aliu2197\documents\visual studio 2013\Projects\study and test\study and test\obj\Debug\study_and_test.Form1.resources
+c:\users\aliu2197\documents\visual studio 2013\Projects\study and test\study and test\obj\Debug\study_and_test.Properties.Resources.resources
+c:\users\aliu2197\documents\visual studio 2013\Projects\study and test\study and test\obj\Debug\study and test.csproj.GenerateResource.Cache
+c:\users\aliu2197\documents\visual studio 2013\Projects\study and test\study and test\obj\Debug\study and test.exe
+c:\users\aliu2197\documents\visual studio 2013\Projects\study and test\study and test\obj\Debug\study and test.pdb

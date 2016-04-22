@@ -1,0 +1,5 @@
+C:\Users\aliu2197\Desktop\14号\14号\Code\Data\bin\Debug\Data.dll
+C:\Users\aliu2197\Desktop\14号\14号\Code\Data\bin\Debug\Data.pdb
+C:\Users\aliu2197\Desktop\14号\14号\Code\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\aliu2197\Desktop\14号\14号\Code\Data\obj\Debug\Data.dll
+C:\Users\aliu2197\Desktop\14号\14号\Code\Data\obj\Debug\Data.pdb

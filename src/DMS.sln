@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "projectfile", "projectfile", "{346149CA-E11C-42E1-BCB9-B378A20B576A}"
+	ProjectSection(SolutionItems) = preProject
+		systemManage.txt = systemManage.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMS.UI", "DMS.UI\DMS.UI.csproj", "{0054A9F8-949B-4F65-BA15-96D4C4F3CBAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMS.DomainObjects", "DMS.DomainObjects\DMS.DomainObjects.csproj", "{136358BF-B1A7-4503-934D-41A15EC1BB09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMS.Common", "DMS.Common\DMS.Common.csproj", "{4DAB427B-9974-42FA-A0A9-23C4679440D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMS.ORMappers", "DMS.ORMappers\DMS.ORMappers.csproj", "{A00F9F04-507F-4B5D-AB9B-0EBFDB6BBFDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMS.BaseORMappers", "DMS.BaseORMappers\DMS.BaseORMappers.csproj", "{101C104D-AD32-42FC-A049-581850B64899}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMS", "DMS\DMS.csproj", "{2BF88FA9-D2D5-4D1E-9196-55C5B8DBCF34}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AE3D5914-4985-4BD1-95AD-F997523FBA19}"
+	ProjectSection(SolutionItems) = preProject
+		bin\dmsDatabase.mdb = bin\dmsDatabase.mdb
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0054A9F8-949B-4F65-BA15-96D4C4F3CBAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0054A9F8-949B-4F65-BA15-96D4C4F3CBAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0054A9F8-949B-4F65-BA15-96D4C4F3CBAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0054A9F8-949B-4F65-BA15-96D4C4F3CBAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{136358BF-B1A7-4503-934D-41A15EC1BB09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{136358BF-B1A7-4503-934D-41A15EC1BB09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{136358BF-B1A7-4503-934D-41A15EC1BB09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{136358BF-B1A7-4503-934D-41A15EC1BB09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DAB427B-9974-42FA-A0A9-23C4679440D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DAB427B-9974-42FA-A0A9-23C4679440D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DAB427B-9974-42FA-A0A9-23C4679440D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DAB427B-9974-42FA-A0A9-23C4679440D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A00F9F04-507F-4B5D-AB9B-0EBFDB6BBFDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A00F9F04-507F-4B5D-AB9B-0EBFDB6BBFDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A00F9F04-507F-4B5D-AB9B-0EBFDB6BBFDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A00F9F04-507F-4B5D-AB9B-0EBFDB6BBFDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{101C104D-AD32-42FC-A049-581850B64899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{101C104D-AD32-42FC-A049-581850B64899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{101C104D-AD32-42FC-A049-581850B64899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{101C104D-AD32-42FC-A049-581850B64899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BF88FA9-D2D5-4D1E-9196-55C5B8DBCF34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BF88FA9-D2D5-4D1E-9196-55C5B8DBCF34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BF88FA9-D2D5-4D1E-9196-55C5B8DBCF34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BF88FA9-D2D5-4D1E-9196-55C5B8DBCF34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

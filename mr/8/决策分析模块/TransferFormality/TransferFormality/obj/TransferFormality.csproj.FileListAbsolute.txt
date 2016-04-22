@@ -1,0 +1,36 @@
+C:\Documents and Settings\Administrator\桌面\决策分析(综合)\TransferFormality\TransferFormality\obj\Debug\TransferFormality.exe
+C:\Documents and Settings\Administrator\桌面\决策分析(综合)\TransferFormality\TransferFormality\obj\Debug\TransferFormality.pdb
+C:\Documents and Settings\Administrator\桌面\决策分析(综合)\TransferFormality\TransferFormality\bin\Debug\TransferFormality.exe
+C:\Documents and Settings\Administrator\桌面\决策分析(综合)\TransferFormality\TransferFormality\bin\Debug\TransferFormality.pdb
+C:\Documents and Settings\Administrator\桌面\决策分析(综合)\TransferFormality\TransferFormality\bin\Debug\Rendering.dll
+C:\Documents and Settings\Administrator\桌面\决策分析(综合)\TransferFormality\TransferFormality\bin\Debug\ChartPanel.dll
+C:\Documents and Settings\Administrator\桌面\决策分析(综合)\TransferFormality\TransferFormality\bin\Debug\ChartPanel.pdb
+C:\Documents and Settings\Administrator\桌面\决策分析(综合)\TransferFormality\TransferFormality\bin\Debug\Rendering.pdb
+C:\Documents and Settings\Administrator\桌面\决策分析(综合)\TransferFormality\TransferFormality\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\决策分析(综合)\TransferFormality\TransferFormality\obj\Debug\TransferFormality.MyMain.resources
+C:\Documents and Settings\Administrator\桌面\决策分析(综合)\TransferFormality\TransferFormality\obj\Debug\TransferFormality.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\决策分析(综合)\TransferFormality\TransferFormality\obj\Debug\TransferFormality.csproj.GenerateResource.Cache
+E:\aaaaa\决策分析(综合)完成\TransferFormality\TransferFormality\obj\Debug\TransferFormality.exe
+E:\aaaaa\决策分析(综合)完成\TransferFormality\TransferFormality\obj\Debug\TransferFormality.pdb
+E:\aaaaa\决策分析(综合)完成\TransferFormality\TransferFormality\bin\Debug\TransferFormality.exe
+E:\aaaaa\决策分析(综合)完成\TransferFormality\TransferFormality\bin\Debug\TransferFormality.pdb
+E:\aaaaa\决策分析(综合)完成\TransferFormality\TransferFormality\bin\Debug\Rendering.dll
+E:\aaaaa\决策分析(综合)完成\TransferFormality\TransferFormality\bin\Debug\ChartPanel.dll
+E:\aaaaa\决策分析(综合)完成\TransferFormality\TransferFormality\bin\Debug\ChartPanel.pdb
+E:\aaaaa\决策分析(综合)完成\TransferFormality\TransferFormality\bin\Debug\Rendering.pdb
+E:\aaaaa\决策分析(综合)完成\TransferFormality\TransferFormality\obj\Debug\ResolveAssemblyReference.cache
+E:\aaaaa\决策分析(综合)完成\TransferFormality\TransferFormality\obj\Debug\TransferFormality.MyMain.resources
+E:\aaaaa\决策分析(综合)完成\TransferFormality\TransferFormality\obj\Debug\TransferFormality.Properties.Resources.resources
+E:\aaaaa\决策分析(综合)完成\TransferFormality\TransferFormality\obj\Debug\TransferFormality.csproj.GenerateResource.Cache
+E:\2008典型模块\完成后的程序（典型模块）\文档部份\程序完成\决策分析\TransferFormality\TransferFormality\obj\Debug\TransferFormality.exe
+E:\2008典型模块\完成后的程序（典型模块）\文档部份\程序完成\决策分析\TransferFormality\TransferFormality\obj\Debug\TransferFormality.pdb
+E:\2008典型模块\完成后的程序（典型模块）\文档部份\程序完成\决策分析\TransferFormality\TransferFormality\bin\Debug\TransferFormality.exe
+E:\2008典型模块\完成后的程序（典型模块）\文档部份\程序完成\决策分析\TransferFormality\TransferFormality\bin\Debug\TransferFormality.pdb
+E:\2008典型模块\完成后的程序（典型模块）\文档部份\程序完成\决策分析\TransferFormality\TransferFormality\bin\Debug\Rendering.dll
+E:\2008典型模块\完成后的程序（典型模块）\文档部份\程序完成\决策分析\TransferFormality\TransferFormality\bin\Debug\ChartComponent.dll
+E:\2008典型模块\完成后的程序（典型模块）\文档部份\程序完成\决策分析\TransferFormality\TransferFormality\bin\Debug\ChartComponent.pdb
+E:\2008典型模块\完成后的程序（典型模块）\文档部份\程序完成\决策分析\TransferFormality\TransferFormality\bin\Debug\Rendering.pdb
+E:\2008典型模块\完成后的程序（典型模块）\文档部份\程序完成\决策分析\TransferFormality\TransferFormality\obj\Debug\ResolveAssemblyReference.cache
+E:\2008典型模块\完成后的程序（典型模块）\文档部份\程序完成\决策分析\TransferFormality\TransferFormality\obj\Debug\TransferFormality.MyMain.resources
+E:\2008典型模块\完成后的程序（典型模块）\文档部份\程序完成\决策分析\TransferFormality\TransferFormality\obj\Debug\TransferFormality.Properties.Resources.resources
+E:\2008典型模块\完成后的程序（典型模块）\文档部份\程序完成\决策分析\TransferFormality\TransferFormality\obj\Debug\TransferFormality.csproj.GenerateResource.Cache

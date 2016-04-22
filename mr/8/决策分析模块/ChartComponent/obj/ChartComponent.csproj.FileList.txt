@@ -1,0 +1,7 @@
+bin\Debug\ChartComponent.dll
+bin\Debug\ChartComponent.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ChartComponent.ChartPanel.resources
+obj\Debug\ChartComponent.csproj.GenerateResource.Cache
+obj\Debug\ChartComponent.dll
+obj\Debug\ChartComponent.pdb

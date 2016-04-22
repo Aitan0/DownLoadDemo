@@ -1,0 +1,9 @@
+c:\users\aliu2197\documents\visual studio 2013\Projects\AutoScrewdriver-config\AutoScrewdriver-config\bin\Debug\AutoScrewdriver-config.exe.config
+c:\users\aliu2197\documents\visual studio 2013\Projects\AutoScrewdriver-config\AutoScrewdriver-config\bin\Debug\AutoScrewdriver-config.exe
+c:\users\aliu2197\documents\visual studio 2013\Projects\AutoScrewdriver-config\AutoScrewdriver-config\bin\Debug\AutoScrewdriver-config.pdb
+c:\users\aliu2197\documents\visual studio 2013\Projects\AutoScrewdriver-config\AutoScrewdriver-config\obj\Debug\AutoScrewdriver-config.csprojResolveAssemblyReference.cache
+c:\users\aliu2197\documents\visual studio 2013\Projects\AutoScrewdriver-config\AutoScrewdriver-config\obj\Debug\fileRW.AutoScrew.resources
+c:\users\aliu2197\documents\visual studio 2013\Projects\AutoScrewdriver-config\AutoScrewdriver-config\obj\Debug\fileRW.Properties.Resources.resources
+c:\users\aliu2197\documents\visual studio 2013\Projects\AutoScrewdriver-config\AutoScrewdriver-config\obj\Debug\AutoScrewdriver-config.csproj.GenerateResource.Cache
+c:\users\aliu2197\documents\visual studio 2013\Projects\AutoScrewdriver-config\AutoScrewdriver-config\obj\Debug\AutoScrewdriver-config.exe
+c:\users\aliu2197\documents\visual studio 2013\Projects\AutoScrewdriver-config\AutoScrewdriver-config\obj\Debug\AutoScrewdriver-config.pdb

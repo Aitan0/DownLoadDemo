@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMALLERP", "SMALLERP\SMALLERP.csproj", "{B8F0FB07-B8DA-4D63-82C8-B1990B269B19}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ERPSetup", "ERPSetup\ERPSetup.vdproj", "{104DD3A6-F752-4C3D-939A-A387EA52872F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8F0FB07-B8DA-4D63-82C8-B1990B269B19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8F0FB07-B8DA-4D63-82C8-B1990B269B19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8F0FB07-B8DA-4D63-82C8-B1990B269B19}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{B8F0FB07-B8DA-4D63-82C8-B1990B269B19}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{B8F0FB07-B8DA-4D63-82C8-B1990B269B19}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B8F0FB07-B8DA-4D63-82C8-B1990B269B19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8F0FB07-B8DA-4D63-82C8-B1990B269B19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8F0FB07-B8DA-4D63-82C8-B1990B269B19}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{B8F0FB07-B8DA-4D63-82C8-B1990B269B19}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{B8F0FB07-B8DA-4D63-82C8-B1990B269B19}.Release|x86.ActiveCfg = Release|Any CPU
+		{104DD3A6-F752-4C3D-939A-A387EA52872F}.Debug|Any CPU.ActiveCfg = Debug
+		{104DD3A6-F752-4C3D-939A-A387EA52872F}.Debug|Mixed Platforms.ActiveCfg = Debug
+		{104DD3A6-F752-4C3D-939A-A387EA52872F}.Debug|x86.ActiveCfg = Debug
+		{104DD3A6-F752-4C3D-939A-A387EA52872F}.Release|Any CPU.ActiveCfg = Release
+		{104DD3A6-F752-4C3D-939A-A387EA52872F}.Release|Mixed Platforms.ActiveCfg = Release
+		{104DD3A6-F752-4C3D-939A-A387EA52872F}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

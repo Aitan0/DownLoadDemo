@@ -1,0 +1,371 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D029DEA8-2248-45C2-A4A4-B00F5DE9D58F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PlayApparatus</RootNamespace>
+    <AssemblyName>PlayApparatus</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FrmClassDepot, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\FrmClassDepot\FrmClassDepot\bin\Debug\FrmClassDepot.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmClass.cs" />
+    <Compile Include="Frm_Libretto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Libretto.Designer.cs">
+      <DependentUpon>Frm_Libretto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Play.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Play.Designer.cs">
+      <DependentUpon>Frm_Play.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_ListBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_ListBox.Designer.cs">
+      <DependentUpon>Frm_ListBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Screen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Screen.Designer.cs">
+      <DependentUpon>Frm_Screen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Frm_Libretto.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Frm_Libretto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Play.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Frm_Play.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_ListBox.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Frm_ListBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Screen.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Frm_Screen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="Scripting">
+      <Guid>{420B2830-E718-11CF-893D-00A0C9054228}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="Shell32">
+      <Guid>{50A7E9B0-70EF-11D1-B75A-00A0C90564FE}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\EQ.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\EQ变.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\LRC.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\LRC变.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\PL.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\PL变.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\WF.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\WF变.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\背景.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\标题栏.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\播放按钮.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\播放按钮变.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\播放列表的关闭按钮原.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\播放列表关闭按钮变.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\播放器背景1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\播放器背景2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\播放器背景.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\播放器背景下.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\播放器背景中.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\打开文件列表.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\打开文件列表变.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\底1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\底2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\底3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\底部边框1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\底部边框2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\底部边框3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\底部边框.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\歌词秀.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\关闭按钮.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\关闭按钮变色.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\滚动.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\滚动变色.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\滚动块.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\后退按钮.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\后退按钮变.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\控件背景.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\控件背是.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\列表导航.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\内部边框.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\前进按钮.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\前进按钮变.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\停止按钮.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\停止按钮变.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\音量按钮.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\音量按钮变色.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\音量滚动.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\音量滚动变色.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\音量滚动块.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\右侧边框.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\暂停按钮.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\暂停按钮变.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\总标题1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\总标题2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\总标题3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\总标题.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\最小化按钮.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\最小化按钮变色.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\左侧边框%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\左侧边框.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

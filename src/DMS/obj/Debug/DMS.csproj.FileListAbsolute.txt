@@ -1,0 +1,39 @@
+E:\Project\DormManage\src\DMS\DMS\bin\Debug\DMS.exe
+E:\Project\DormManage\src\DMS\DMS\bin\Debug\DMS.pdb
+E:\Project\DormManage\src\DMS\DMS\bin\Debug\DMS.Common.dll
+E:\Project\DormManage\src\DMS\DMS\bin\Debug\DMS.DomainObjects.dll
+E:\Project\DormManage\src\DMS\DMS\bin\Debug\DMS.UI.exe
+E:\Project\DormManage\src\DMS\DMS\bin\Debug\DMS.UI.pdb
+E:\Project\DormManage\src\DMS\DMS\bin\Debug\DMS.Common.pdb
+E:\Project\DormManage\src\DMS\DMS\bin\Debug\DMS.DomainObjects.pdb
+E:\Project\DormManage\src\DMS\DMS\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\DormManage\src\DMS\DMS\obj\Debug\DMS.Properties.Resources.resources
+E:\Project\DormManage\src\DMS\DMS\obj\Debug\DMS.csproj.GenerateResource.Cache
+E:\Project\DormManage\src\DMS\DMS\obj\Debug\DMS.exe
+E:\Project\DormManage\src\DMS\DMS\obj\Debug\DMS.pdb
+E:\Project\DormManage\src\DMS\DMS.exe.config
+E:\Project\DormManage\src\DMS\bin\DMS.exe.config
+E:\Project\DormManage\src\DMS\bin\DMS.exe
+E:\Project\DormManage\src\DMS\bin\DMS.pdb
+E:\Project\DormManage\src\DMS\DMS\obj\Debug\DMS.Form1.resources
+E:\Project\WinFormFrameWork\src\bin\DMS.exe.config
+E:\Project\WinFormFrameWork\src\DMS\obj\Debug\DMS.exe
+E:\Project\WinFormFrameWork\src\DMS\obj\Debug\DMS.pdb
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\bin\DMS.exe.config
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS\obj\Debug\DMS.exe
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS\obj\Debug\DMS.pdb
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\bin\DMS.exe
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\bin\DMS.pdb
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS\obj\Debug\DMS.csprojResolveAssemblyReference.cache
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS\obj\Debug\DMS.Form1.resources
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS\obj\Debug\DMS.Properties.Resources.resources
+C:\Users\aliu2197\Desktop\ym_csharp-WinFormFrameWork\ym_csharp-WinFormFrameWork\WinFormFrameWork\src\DMS\obj\Debug\DMS.csproj.GenerateResource.Cache
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\bin\DMS.exe.config
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS\obj\Debug\DMS.exe
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS\obj\Debug\DMS.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\bin\DMS.exe
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\bin\DMS.pdb
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS\obj\Debug\DMS.csprojResolveAssemblyReference.cache
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS\obj\Debug\DMS.Form1.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS\obj\Debug\DMS.Properties.Resources.resources
+C:\Users\aliu2197\Documents\Visual Studio 2013\Projects\src\DMS\obj\Debug\DMS.csproj.GenerateResource.Cache

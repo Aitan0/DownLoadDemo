@@ -1,0 +1,14 @@
+E:\TTT\新程序\01\ChartComponent\bin\Debug\ChartComponent.dll
+E:\TTT\新程序\01\ChartComponent\bin\Debug\ChartComponent.pdb
+E:\TTT\新程序\01\ChartComponent\obj\Debug\ResolveAssemblyReference.cache
+E:\TTT\新程序\01\ChartComponent\obj\Debug\ChartComponent.ChartPanel.resources
+E:\TTT\新程序\01\ChartComponent\obj\Debug\ChartComponent.csproj.GenerateResource.Cache
+E:\TTT\新程序\01\ChartComponent\obj\Debug\ChartComponent.dll
+E:\TTT\新程序\01\ChartComponent\obj\Debug\ChartComponent.pdb
+E:\2008典型模块\完成后的程序（典型模块）\文档部份\程序完成\决策分析\ChartComponent\bin\Debug\ChartComponent.dll
+E:\2008典型模块\完成后的程序（典型模块）\文档部份\程序完成\决策分析\ChartComponent\bin\Debug\ChartComponent.pdb
+E:\2008典型模块\完成后的程序（典型模块）\文档部份\程序完成\决策分析\ChartComponent\obj\Debug\ResolveAssemblyReference.cache
+E:\2008典型模块\完成后的程序（典型模块）\文档部份\程序完成\决策分析\ChartComponent\obj\Debug\ChartComponent.ChartPanel.resources
+E:\2008典型模块\完成后的程序（典型模块）\文档部份\程序完成\决策分析\ChartComponent\obj\Debug\ChartComponent.csproj.GenerateResource.Cache
+E:\2008典型模块\完成后的程序（典型模块）\文档部份\程序完成\决策分析\ChartComponent\obj\Debug\ChartComponent.dll
+E:\2008典型模块\完成后的程序（典型模块）\文档部份\程序完成\决策分析\ChartComponent\obj\Debug\ChartComponent.pdb
