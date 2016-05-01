@@ -1,0 +1,13 @@
+c:\users\bliu13\documents\visual studio 2015\Projects\DownLoad_Demo\DownLoad_Demo\bin\Debug\DownLoad_Demo.exe.config
+c:\users\bliu13\documents\visual studio 2015\Projects\DownLoad_Demo\DownLoad_Demo\bin\Debug\DownLoad_Demo.exe
+c:\users\bliu13\documents\visual studio 2015\Projects\DownLoad_Demo\DownLoad_Demo\bin\Debug\DownLoad_Demo.pdb
+c:\users\bliu13\documents\visual studio 2015\Projects\DownLoad_Demo\DownLoad_Demo\bin\Debug\DotNet.Utilities.dll
+c:\users\bliu13\documents\visual studio 2015\Projects\DownLoad_Demo\DownLoad_Demo\bin\Debug\itextsharp.dll
+c:\users\bliu13\documents\visual studio 2015\Projects\DownLoad_Demo\DownLoad_Demo\bin\Debug\ICSharpCode.SharpZipLib.dll
+c:\users\bliu13\documents\visual studio 2015\Projects\DownLoad_Demo\DownLoad_Demo\bin\Debug\OWC10Chart.dll
+c:\users\bliu13\documents\visual studio 2015\Projects\DownLoad_Demo\DownLoad_Demo\bin\Debug\DotNet.Utilities.pdb
+c:\users\bliu13\documents\visual studio 2015\Projects\DownLoad_Demo\DownLoad_Demo\obj\Debug\DownLoad_Demo.DownLoad_Main.resources
+c:\users\bliu13\documents\visual studio 2015\Projects\DownLoad_Demo\DownLoad_Demo\obj\Debug\DownLoad_Demo.Properties.Resources.resources
+c:\users\bliu13\documents\visual studio 2015\Projects\DownLoad_Demo\DownLoad_Demo\obj\Debug\DownLoad_Demo.csproj.GenerateResource.Cache
+c:\users\bliu13\documents\visual studio 2015\Projects\DownLoad_Demo\DownLoad_Demo\obj\Debug\DownLoad_Demo.exe
+c:\users\bliu13\documents\visual studio 2015\Projects\DownLoad_Demo\DownLoad_Demo\obj\Debug\DownLoad_Demo.pdb

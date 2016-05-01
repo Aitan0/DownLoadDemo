@@ -1,0 +1,9 @@
+c:\users\bliu13\documents\visual studio 2015\Projects\SQL-Test\SQL-Test\bin\Debug\SQL-Test.exe.config
+c:\users\bliu13\documents\visual studio 2015\Projects\SQL-Test\SQL-Test\bin\Debug\SQL-Test.exe
+c:\users\bliu13\documents\visual studio 2015\Projects\SQL-Test\SQL-Test\bin\Debug\SQL-Test.pdb
+c:\users\bliu13\documents\visual studio 2015\Projects\SQL-Test\SQL-Test\obj\Debug\SQL-Test.csprojResolveAssemblyReference.cache
+c:\users\bliu13\documents\visual studio 2015\Projects\SQL-Test\SQL-Test\obj\Debug\SQL_Test.Properties.Resources.resources
+c:\users\bliu13\documents\visual studio 2015\Projects\SQL-Test\SQL-Test\obj\Debug\SQL-Test.csproj.GenerateResource.Cache
+c:\users\bliu13\documents\visual studio 2015\Projects\SQL-Test\SQL-Test\obj\Debug\SQL-Test.exe
+c:\users\bliu13\documents\visual studio 2015\Projects\SQL-Test\SQL-Test\obj\Debug\SQL-Test.pdb
+c:\users\bliu13\documents\visual studio 2015\Projects\SQL-Test\SQL-Test\obj\Debug\SQL_Test.SQLTestMain.resources

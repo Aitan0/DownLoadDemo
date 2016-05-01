@@ -1,0 +1,14 @@
+c:\users\bliu13\documents\visual studio 2015\Projects\DownLoad_Demo\DownLoad_DemoTests\bin\Debug\DownLoad_DemoTests.dll
+c:\users\bliu13\documents\visual studio 2015\Projects\DownLoad_Demo\DownLoad_DemoTests\bin\Debug\DownLoad_DemoTests.pdb
+c:\users\bliu13\documents\visual studio 2015\Projects\DownLoad_Demo\DownLoad_DemoTests\bin\Debug\DownLoad_Demo.exe
+c:\users\bliu13\documents\visual studio 2015\Projects\DownLoad_Demo\DownLoad_DemoTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\bliu13\documents\visual studio 2015\Projects\DownLoad_Demo\DownLoad_DemoTests\bin\Debug\DotNet.Utilities.dll
+c:\users\bliu13\documents\visual studio 2015\Projects\DownLoad_Demo\DownLoad_DemoTests\bin\Debug\itextsharp.dll
+c:\users\bliu13\documents\visual studio 2015\Projects\DownLoad_Demo\DownLoad_DemoTests\bin\Debug\ICSharpCode.SharpZipLib.dll
+c:\users\bliu13\documents\visual studio 2015\Projects\DownLoad_Demo\DownLoad_DemoTests\bin\Debug\OWC10Chart.dll
+c:\users\bliu13\documents\visual studio 2015\Projects\DownLoad_Demo\DownLoad_DemoTests\bin\Debug\DownLoad_Demo.pdb
+c:\users\bliu13\documents\visual studio 2015\Projects\DownLoad_Demo\DownLoad_DemoTests\bin\Debug\DotNet.Utilities.pdb
+c:\users\bliu13\documents\visual studio 2015\Projects\DownLoad_Demo\DownLoad_DemoTests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\bliu13\documents\visual studio 2015\Projects\DownLoad_Demo\DownLoad_DemoTests\obj\Debug\DownLoad_DemoTests.csprojResolveAssemblyReference.cache
+c:\users\bliu13\documents\visual studio 2015\Projects\DownLoad_Demo\DownLoad_DemoTests\obj\Debug\DownLoad_DemoTests.dll
+c:\users\bliu13\documents\visual studio 2015\Projects\DownLoad_Demo\DownLoad_DemoTests\obj\Debug\DownLoad_DemoTests.pdb
